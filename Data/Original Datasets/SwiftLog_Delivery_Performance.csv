@@ -1,0 +1,5001 @@
+﻿ShipmentID,Status,DelayDays
+SH00001,On Time,0
+SH00002,On Time,2
+SH00003,On Time,0
+SH00004,On Time,0
+SH00005,Delayed,3
+SH00006,On Time,0
+SH00007,Delayed,3
+SH00008,Delayed,5
+SH00009,Delayed,7
+SH00010,Delayed,4
+SH00011,Delayed,5
+SH00012,Delayed,6
+SH00013,Delayed,5
+SH00014,Delayed,3
+SH00015,On Time,2
+SH00016,On Time,0
+SH00017,Delayed,5
+SH00018,Delayed,4
+SH00019,On Time,0
+SH00020,Delayed,4
+SH00021,On Time,2
+SH00022,Delayed,7
+SH00023,Delayed,5
+SH00024,Delayed,7
+SH00025,On Time,2
+SH00026,On Time,2
+SH00027,Delayed,7
+SH00028,Delayed,4
+SH00029,On Time,2
+SH00030,Delayed,5
+SH00031,On Time,0
+SH00032,Delayed,5
+SH00033,Delayed,6
+SH00034,On Time,0
+SH00035,On Time,2
+SH00036,On Time,1
+SH00037,Delayed,6
+SH00038,Delayed,4
+SH00039,Delayed,7
+SH00040,Delayed,6
+SH00041,On Time,2
+SH00042,On Time,2
+SH00043,Delayed,6
+SH00044,Delayed,3
+SH00045,Delayed,6
+SH00046,On Time,2
+SH00047,On Time,1
+SH00048,Delayed,4
+SH00049,Delayed,5
+SH00050,Delayed,3
+SH00051,On Time,0
+SH00052,On Time,2
+SH00053,Delayed,6
+SH00054,On Time,1
+SH00055,On Time,0
+SH00056,On Time,0
+SH00057,Delayed,4
+SH00058,Delayed,5
+SH00059,Delayed,5
+SH00060,Delayed,3
+SH00061,Delayed,3
+SH00062,Delayed,3
+SH00063,On Time,2
+SH00064,Delayed,5
+SH00065,Delayed,5
+SH00066,On Time,2
+SH00067,Delayed,4
+SH00068,Delayed,3
+SH00069,Delayed,5
+SH00070,On Time,1
+SH00071,Delayed,7
+SH00072,Delayed,3
+SH00073,On Time,1
+SH00074,Delayed,7
+SH00075,On Time,2
+SH00076,Delayed,3
+SH00077,Delayed,3
+SH00078,Delayed,3
+SH00079,Delayed,7
+SH00080,On Time,2
+SH00081,Delayed,6
+SH00082,Delayed,4
+SH00083,On Time,2
+SH00084,Delayed,5
+SH00085,Delayed,6
+SH00086,Delayed,6
+SH00087,Delayed,3
+SH00088,On Time,1
+SH00089,Delayed,7
+SH00090,Delayed,3
+SH00091,Delayed,5
+SH00092,Delayed,4
+SH00093,Delayed,5
+SH00094,On Time,1
+SH00095,On Time,0
+SH00096,On Time,0
+SH00097,On Time,2
+SH00098,Delayed,3
+SH00099,On Time,0
+SH00100,On Time,2
+SH00101,On Time,0
+SH00102,Delayed,7
+SH00103,Delayed,7
+SH00104,Delayed,6
+SH00105,Delayed,3
+SH00106,Delayed,4
+SH00107,Delayed,5
+SH00108,Delayed,5
+SH00109,Delayed,6
+SH00110,On Time,0
+SH00111,Delayed,7
+SH00112,Delayed,3
+SH00113,On Time,2
+SH00114,On Time,2
+SH00115,On Time,0
+SH00116,On Time,1
+SH00117,On Time,2
+SH00118,Delayed,4
+SH00119,Delayed,6
+SH00120,On Time,1
+SH00121,Delayed,7
+SH00122,On Time,2
+SH00123,Delayed,7
+SH00124,Delayed,3
+SH00125,Delayed,5
+SH00126,Delayed,6
+SH00127,On Time,1
+SH00128,On Time,1
+SH00129,On Time,2
+SH00130,Delayed,6
+SH00131,Delayed,6
+SH00132,Delayed,4
+SH00133,Delayed,7
+SH00134,Delayed,3
+SH00135,On Time,0
+SH00136,Delayed,5
+SH00137,On Time,0
+SH00138,Delayed,6
+SH00139,On Time,2
+SH00140,Delayed,4
+SH00141,Delayed,3
+SH00142,Delayed,7
+SH00143,Delayed,6
+SH00144,Delayed,7
+SH00145,On Time,2
+SH00146,Delayed,3
+SH00147,Delayed,7
+SH00148,Delayed,5
+SH00149,On Time,1
+SH00150,On Time,1
+SH00151,Delayed,5
+SH00152,Delayed,3
+SH00153,Delayed,4
+SH00154,Delayed,3
+SH00155,Delayed,6
+SH00156,Delayed,7
+SH00157,On Time,0
+SH00158,Delayed,3
+SH00159,Delayed,3
+SH00160,On Time,0
+SH00161,Delayed,7
+SH00162,Delayed,5
+SH00163,Delayed,5
+SH00164,On Time,2
+SH00165,On Time,1
+SH00166,On Time,0
+SH00167,Delayed,5
+SH00168,Delayed,3
+SH00169,On Time,1
+SH00170,Delayed,4
+SH00171,On Time,2
+SH00172,On Time,0
+SH00173,Delayed,3
+SH00174,Delayed,5
+SH00175,On Time,1
+SH00176,Delayed,4
+SH00177,Delayed,4
+SH00178,On Time,2
+SH00179,On Time,1
+SH00180,Delayed,5
+SH00181,On Time,0
+SH00182,On Time,0
+SH00183,Delayed,3
+SH00184,Delayed,4
+SH00185,Delayed,5
+SH00186,Delayed,4
+SH00187,On Time,1
+SH00188,Delayed,7
+SH00189,Delayed,7
+SH00190,Delayed,5
+SH00191,Delayed,6
+SH00192,Delayed,5
+SH00193,Delayed,5
+SH00194,Delayed,6
+SH00195,On Time,0
+SH00196,Delayed,6
+SH00197,Delayed,5
+SH00198,Delayed,4
+SH00199,Delayed,5
+SH00200,On Time,1
+SH00201,Delayed,6
+SH00202,Delayed,5
+SH00203,On Time,1
+SH00204,Delayed,4
+SH00205,On Time,1
+SH00206,On Time,1
+SH00207,Delayed,5
+SH00208,Delayed,3
+SH00209,Delayed,7
+SH00210,Delayed,4
+SH00211,Delayed,6
+SH00212,Delayed,3
+SH00213,On Time,2
+SH00214,On Time,2
+SH00215,On Time,2
+SH00216,Delayed,6
+SH00217,Delayed,5
+SH00218,On Time,0
+SH00219,Delayed,5
+SH00220,On Time,2
+SH00221,Delayed,7
+SH00222,Delayed,6
+SH00223,On Time,1
+SH00224,On Time,1
+SH00225,Delayed,7
+SH00226,On Time,2
+SH00227,On Time,1
+SH00228,Delayed,6
+SH00229,Delayed,6
+SH00230,On Time,0
+SH00231,Delayed,7
+SH00232,Delayed,5
+SH00233,Delayed,4
+SH00234,On Time,1
+SH00235,On Time,0
+SH00236,Delayed,4
+SH00237,On Time,1
+SH00238,Delayed,6
+SH00239,Delayed,6
+SH00240,Delayed,3
+SH00241,On Time,1
+SH00242,Delayed,5
+SH00243,Delayed,4
+SH00244,Delayed,3
+SH00245,On Time,1
+SH00246,Delayed,5
+SH00247,On Time,0
+SH00248,Delayed,3
+SH00249,Delayed,6
+SH00250,On Time,2
+SH00251,On Time,1
+SH00252,On Time,1
+SH00253,On Time,2
+SH00254,Delayed,6
+SH00255,On Time,0
+SH00256,Delayed,6
+SH00257,Delayed,7
+SH00258,Delayed,5
+SH00259,On Time,0
+SH00260,Delayed,4
+SH00261,Delayed,4
+SH00262,Delayed,6
+SH00263,Delayed,5
+SH00264,On Time,1
+SH00265,Delayed,3
+SH00266,Delayed,6
+SH00267,On Time,0
+SH00268,Delayed,7
+SH00269,Delayed,3
+SH00270,Delayed,3
+SH00271,Delayed,5
+SH00272,On Time,1
+SH00273,Delayed,5
+SH00274,Delayed,5
+SH00275,Delayed,3
+SH00276,Delayed,6
+SH00277,Delayed,5
+SH00278,On Time,2
+SH00279,Delayed,4
+SH00280,On Time,2
+SH00281,Delayed,3
+SH00282,On Time,0
+SH00283,On Time,1
+SH00284,Delayed,7
+SH00285,On Time,1
+SH00286,Delayed,4
+SH00287,Delayed,7
+SH00288,Delayed,3
+SH00289,On Time,0
+SH00290,Delayed,3
+SH00291,On Time,1
+SH00292,Delayed,7
+SH00293,On Time,1
+SH00294,Delayed,4
+SH00295,Delayed,4
+SH00296,Delayed,4
+SH00297,Delayed,4
+SH00298,Delayed,4
+SH00299,Delayed,3
+SH00300,Delayed,4
+SH00301,Delayed,7
+SH00302,On Time,2
+SH00303,Delayed,5
+SH00304,On Time,2
+SH00305,Delayed,7
+SH00306,On Time,2
+SH00307,Delayed,7
+SH00308,Delayed,6
+SH00309,On Time,0
+SH00310,On Time,2
+SH00311,Delayed,7
+SH00312,On Time,1
+SH00313,On Time,1
+SH00314,On Time,2
+SH00315,On Time,2
+SH00316,Delayed,7
+SH00317,Delayed,5
+SH00318,Delayed,7
+SH00319,Delayed,6
+SH00320,Delayed,6
+SH00321,Delayed,7
+SH00322,On Time,1
+SH00323,Delayed,7
+SH00324,On Time,1
+SH00325,On Time,0
+SH00326,On Time,2
+SH00327,On Time,2
+SH00328,Delayed,6
+SH00329,Delayed,5
+SH00330,Delayed,6
+SH00331,Delayed,7
+SH00332,Delayed,3
+SH00333,On Time,2
+SH00334,Delayed,5
+SH00335,On Time,0
+SH00336,Delayed,6
+SH00337,Delayed,3
+SH00338,On Time,1
+SH00339,Delayed,5
+SH00340,Delayed,6
+SH00341,Delayed,3
+SH00342,On Time,0
+SH00343,On Time,1
+SH00344,Delayed,6
+SH00345,Delayed,5
+SH00346,On Time,0
+SH00347,On Time,1
+SH00348,Delayed,5
+SH00349,Delayed,4
+SH00350,On Time,1
+SH00351,Delayed,7
+SH00352,Delayed,7
+SH00353,Delayed,4
+SH00354,Delayed,7
+SH00355,On Time,0
+SH00356,Delayed,5
+SH00357,Delayed,6
+SH00358,Delayed,5
+SH00359,On Time,0
+SH00360,Delayed,7
+SH00361,Delayed,5
+SH00362,Delayed,3
+SH00363,Delayed,5
+SH00364,On Time,2
+SH00365,On Time,0
+SH00366,Delayed,6
+SH00367,Delayed,3
+SH00368,On Time,2
+SH00369,Delayed,7
+SH00370,Delayed,3
+SH00371,On Time,2
+SH00372,Delayed,5
+SH00373,Delayed,7
+SH00374,Delayed,3
+SH00375,On Time,2
+SH00376,Delayed,5
+SH00377,On Time,0
+SH00378,Delayed,7
+SH00379,Delayed,7
+SH00380,On Time,2
+SH00381,Delayed,6
+SH00382,Delayed,5
+SH00383,Delayed,7
+SH00384,Delayed,5
+SH00385,Delayed,6
+SH00386,On Time,1
+SH00387,On Time,1
+SH00388,Delayed,5
+SH00389,Delayed,5
+SH00390,On Time,0
+SH00391,Delayed,5
+SH00392,Delayed,5
+SH00393,Delayed,7
+SH00394,Delayed,3
+SH00395,Delayed,5
+SH00396,Delayed,6
+SH00397,Delayed,5
+SH00398,Delayed,6
+SH00399,Delayed,7
+SH00400,On Time,0
+SH00401,Delayed,5
+SH00402,Delayed,4
+SH00403,Delayed,7
+SH00404,Delayed,7
+SH00405,On Time,1
+SH00406,On Time,2
+SH00407,Delayed,4
+SH00408,Delayed,5
+SH00409,Delayed,4
+SH00410,Delayed,7
+SH00411,Delayed,3
+SH00412,On Time,2
+SH00413,On Time,2
+SH00414,On Time,2
+SH00415,Delayed,6
+SH00416,Delayed,5
+SH00417,On Time,1
+SH00418,Delayed,4
+SH00419,On Time,2
+SH00420,On Time,1
+SH00421,Delayed,4
+SH00422,On Time,2
+SH00423,Delayed,4
+SH00424,On Time,2
+SH00425,On Time,1
+SH00426,Delayed,5
+SH00427,Delayed,6
+SH00428,On Time,1
+SH00429,Delayed,4
+SH00430,Delayed,4
+SH00431,On Time,1
+SH00432,Delayed,4
+SH00433,Delayed,6
+SH00434,Delayed,3
+SH00435,On Time,0
+SH00436,Delayed,4
+SH00437,Delayed,4
+SH00438,Delayed,6
+SH00439,Delayed,6
+SH00440,Delayed,7
+SH00441,Delayed,7
+SH00442,Delayed,3
+SH00443,Delayed,6
+SH00444,On Time,1
+SH00445,Delayed,5
+SH00446,Delayed,3
+SH00447,Delayed,5
+SH00448,On Time,1
+SH00449,On Time,2
+SH00450,On Time,2
+SH00451,On Time,1
+SH00452,Delayed,5
+SH00453,Delayed,4
+SH00454,Delayed,7
+SH00455,Delayed,3
+SH00456,Delayed,6
+SH00457,Delayed,4
+SH00458,Delayed,5
+SH00459,Delayed,4
+SH00460,Delayed,7
+SH00461,Delayed,5
+SH00462,Delayed,7
+SH00463,On Time,1
+SH00464,On Time,0
+SH00465,Delayed,5
+SH00466,Delayed,7
+SH00467,On Time,0
+SH00468,Delayed,5
+SH00469,Delayed,4
+SH00470,On Time,0
+SH00471,On Time,2
+SH00472,Delayed,4
+SH00473,Delayed,6
+SH00474,Delayed,4
+SH00475,On Time,0
+SH00476,Delayed,6
+SH00477,Delayed,7
+SH00478,Delayed,7
+SH00479,On Time,2
+SH00480,Delayed,5
+SH00481,On Time,1
+SH00482,On Time,0
+SH00483,Delayed,3
+SH00484,Delayed,4
+SH00485,Delayed,4
+SH00486,Delayed,4
+SH00487,Delayed,3
+SH00488,On Time,0
+SH00489,Delayed,6
+SH00490,Delayed,5
+SH00491,Delayed,3
+SH00492,Delayed,7
+SH00493,Delayed,5
+SH00494,On Time,0
+SH00495,Delayed,7
+SH00496,On Time,0
+SH00497,Delayed,4
+SH00498,Delayed,4
+SH00499,Delayed,6
+SH00500,On Time,1
+SH00501,Delayed,4
+SH00502,Delayed,5
+SH00503,Delayed,3
+SH00504,Delayed,4
+SH00505,Delayed,4
+SH00506,Delayed,5
+SH00507,Delayed,4
+SH00508,On Time,2
+SH00509,Delayed,4
+SH00510,Delayed,3
+SH00511,Delayed,7
+SH00512,On Time,0
+SH00513,Delayed,7
+SH00514,On Time,2
+SH00515,On Time,1
+SH00516,On Time,1
+SH00517,Delayed,3
+SH00518,On Time,2
+SH00519,Delayed,7
+SH00520,Delayed,5
+SH00521,On Time,1
+SH00522,On Time,1
+SH00523,On Time,2
+SH00524,On Time,0
+SH00525,Delayed,6
+SH00526,On Time,0
+SH00527,Delayed,3
+SH00528,Delayed,7
+SH00529,On Time,0
+SH00530,Delayed,3
+SH00531,Delayed,6
+SH00532,Delayed,4
+SH00533,On Time,0
+SH00534,Delayed,7
+SH00535,Delayed,4
+SH00536,On Time,1
+SH00537,On Time,1
+SH00538,Delayed,4
+SH00539,Delayed,4
+SH00540,Delayed,6
+SH00541,Delayed,3
+SH00542,Delayed,5
+SH00543,Delayed,6
+SH00544,On Time,0
+SH00545,Delayed,6
+SH00546,Delayed,6
+SH00547,On Time,1
+SH00548,Delayed,4
+SH00549,Delayed,4
+SH00550,Delayed,6
+SH00551,On Time,1
+SH00552,Delayed,5
+SH00553,Delayed,4
+SH00554,On Time,2
+SH00555,Delayed,6
+SH00556,On Time,2
+SH00557,On Time,1
+SH00558,Delayed,7
+SH00559,On Time,0
+SH00560,Delayed,5
+SH00561,Delayed,4
+SH00562,Delayed,4
+SH00563,On Time,0
+SH00564,Delayed,5
+SH00565,On Time,2
+SH00566,Delayed,6
+SH00567,Delayed,3
+SH00568,Delayed,7
+SH00569,Delayed,7
+SH00570,Delayed,6
+SH00571,Delayed,4
+SH00572,Delayed,6
+SH00573,On Time,1
+SH00574,Delayed,5
+SH00575,On Time,1
+SH00576,Delayed,7
+SH00577,Delayed,5
+SH00578,Delayed,4
+SH00579,On Time,2
+SH00580,On Time,2
+SH00581,Delayed,5
+SH00582,On Time,2
+SH00583,On Time,1
+SH00584,Delayed,6
+SH00585,Delayed,6
+SH00586,On Time,0
+SH00587,On Time,2
+SH00588,On Time,1
+SH00589,Delayed,4
+SH00590,On Time,2
+SH00591,On Time,0
+SH00592,On Time,1
+SH00593,Delayed,3
+SH00594,Delayed,3
+SH00595,Delayed,5
+SH00596,Delayed,3
+SH00597,On Time,1
+SH00598,On Time,1
+SH00599,Delayed,5
+SH00600,Delayed,7
+SH00601,Delayed,6
+SH00602,On Time,0
+SH00603,Delayed,5
+SH00604,On Time,2
+SH00605,On Time,1
+SH00606,Delayed,7
+SH00607,Delayed,3
+SH00608,Delayed,6
+SH00609,Delayed,3
+SH00610,Delayed,5
+SH00611,On Time,0
+SH00612,Delayed,4
+SH00613,Delayed,7
+SH00614,On Time,0
+SH00615,Delayed,5
+SH00616,Delayed,6
+SH00617,On Time,0
+SH00618,Delayed,6
+SH00619,On Time,2
+SH00620,On Time,2
+SH00621,On Time,1
+SH00622,On Time,1
+SH00623,On Time,2
+SH00624,Delayed,4
+SH00625,Delayed,5
+SH00626,Delayed,4
+SH00627,Delayed,5
+SH00628,On Time,0
+SH00629,Delayed,4
+SH00630,On Time,2
+SH00631,Delayed,3
+SH00632,Delayed,7
+SH00633,On Time,2
+SH00634,Delayed,6
+SH00635,On Time,1
+SH00636,On Time,0
+SH00637,On Time,0
+SH00638,Delayed,7
+SH00639,On Time,1
+SH00640,On Time,0
+SH00641,Delayed,4
+SH00642,Delayed,6
+SH00643,On Time,1
+SH00644,Delayed,5
+SH00645,Delayed,4
+SH00646,Delayed,3
+SH00647,On Time,1
+SH00648,Delayed,7
+SH00649,Delayed,3
+SH00650,Delayed,3
+SH00651,On Time,0
+SH00652,On Time,2
+SH00653,Delayed,4
+SH00654,On Time,0
+SH00655,Delayed,6
+SH00656,On Time,1
+SH00657,Delayed,3
+SH00658,Delayed,3
+SH00659,On Time,1
+SH00660,On Time,0
+SH00661,Delayed,7
+SH00662,Delayed,4
+SH00663,On Time,2
+SH00664,Delayed,6
+SH00665,Delayed,4
+SH00666,Delayed,4
+SH00667,Delayed,6
+SH00668,Delayed,7
+SH00669,Delayed,4
+SH00670,Delayed,3
+SH00671,On Time,2
+SH00672,Delayed,6
+SH00673,On Time,2
+SH00674,Delayed,5
+SH00675,Delayed,5
+SH00676,Delayed,3
+SH00677,Delayed,3
+SH00678,Delayed,3
+SH00679,Delayed,5
+SH00680,Delayed,6
+SH00681,Delayed,7
+SH00682,On Time,2
+SH00683,Delayed,5
+SH00684,Delayed,3
+SH00685,Delayed,7
+SH00686,Delayed,3
+SH00687,Delayed,5
+SH00688,On Time,0
+SH00689,On Time,1
+SH00690,Delayed,3
+SH00691,On Time,2
+SH00692,On Time,2
+SH00693,Delayed,5
+SH00694,Delayed,3
+SH00695,Delayed,6
+SH00696,On Time,1
+SH00697,Delayed,5
+SH00698,Delayed,5
+SH00699,Delayed,6
+SH00700,Delayed,4
+SH00701,On Time,0
+SH00702,Delayed,5
+SH00703,Delayed,5
+SH00704,On Time,1
+SH00705,Delayed,3
+SH00706,Delayed,3
+SH00707,Delayed,5
+SH00708,Delayed,5
+SH00709,On Time,1
+SH00710,Delayed,3
+SH00711,Delayed,3
+SH00712,On Time,1
+SH00713,Delayed,4
+SH00714,Delayed,3
+SH00715,Delayed,6
+SH00716,Delayed,3
+SH00717,Delayed,3
+SH00718,Delayed,6
+SH00719,On Time,2
+SH00720,On Time,2
+SH00721,Delayed,3
+SH00722,Delayed,3
+SH00723,On Time,1
+SH00724,On Time,2
+SH00725,Delayed,4
+SH00726,Delayed,5
+SH00727,On Time,2
+SH00728,Delayed,7
+SH00729,Delayed,4
+SH00730,Delayed,5
+SH00731,Delayed,5
+SH00732,On Time,1
+SH00733,Delayed,7
+SH00734,Delayed,4
+SH00735,Delayed,7
+SH00736,Delayed,4
+SH00737,On Time,2
+SH00738,On Time,2
+SH00739,On Time,1
+SH00740,Delayed,3
+SH00741,On Time,0
+SH00742,Delayed,4
+SH00743,On Time,0
+SH00744,On Time,2
+SH00745,On Time,2
+SH00746,On Time,1
+SH00747,Delayed,6
+SH00748,Delayed,6
+SH00749,Delayed,7
+SH00750,Delayed,7
+SH00751,Delayed,3
+SH00752,On Time,2
+SH00753,Delayed,6
+SH00754,Delayed,3
+SH00755,Delayed,6
+SH00756,Delayed,6
+SH00757,Delayed,6
+SH00758,Delayed,4
+SH00759,Delayed,5
+SH00760,Delayed,5
+SH00761,Delayed,6
+SH00762,On Time,2
+SH00763,On Time,0
+SH00764,Delayed,5
+SH00765,Delayed,5
+SH00766,On Time,1
+SH00767,Delayed,3
+SH00768,On Time,2
+SH00769,On Time,0
+SH00770,On Time,2
+SH00771,Delayed,3
+SH00772,On Time,1
+SH00773,Delayed,3
+SH00774,On Time,1
+SH00775,Delayed,7
+SH00776,Delayed,5
+SH00777,Delayed,6
+SH00778,Delayed,7
+SH00779,Delayed,6
+SH00780,Delayed,7
+SH00781,Delayed,6
+SH00782,Delayed,7
+SH00783,Delayed,5
+SH00784,Delayed,5
+SH00785,Delayed,6
+SH00786,Delayed,6
+SH00787,Delayed,5
+SH00788,Delayed,3
+SH00789,Delayed,4
+SH00790,On Time,1
+SH00791,Delayed,6
+SH00792,Delayed,3
+SH00793,Delayed,6
+SH00794,On Time,0
+SH00795,Delayed,5
+SH00796,Delayed,4
+SH00797,Delayed,4
+SH00798,Delayed,6
+SH00799,On Time,0
+SH00800,Delayed,3
+SH00801,Delayed,5
+SH00802,Delayed,5
+SH00803,Delayed,6
+SH00804,On Time,2
+SH00805,Delayed,6
+SH00806,On Time,0
+SH00807,Delayed,7
+SH00808,Delayed,5
+SH00809,On Time,0
+SH00810,On Time,1
+SH00811,On Time,2
+SH00812,Delayed,5
+SH00813,On Time,1
+SH00814,Delayed,4
+SH00815,Delayed,4
+SH00816,On Time,1
+SH00817,Delayed,6
+SH00818,Delayed,6
+SH00819,Delayed,7
+SH00820,On Time,2
+SH00821,Delayed,5
+SH00822,Delayed,3
+SH00823,Delayed,3
+SH00824,Delayed,3
+SH00825,Delayed,7
+SH00826,Delayed,3
+SH00827,Delayed,6
+SH00828,Delayed,3
+SH00829,Delayed,4
+SH00830,On Time,0
+SH00831,Delayed,6
+SH00832,On Time,1
+SH00833,Delayed,7
+SH00834,Delayed,7
+SH00835,Delayed,5
+SH00836,Delayed,3
+SH00837,On Time,0
+SH00838,On Time,2
+SH00839,On Time,0
+SH00840,Delayed,6
+SH00841,On Time,0
+SH00842,On Time,0
+SH00843,Delayed,5
+SH00844,On Time,0
+SH00845,Delayed,3
+SH00846,On Time,2
+SH00847,Delayed,6
+SH00848,On Time,0
+SH00849,Delayed,4
+SH00850,Delayed,6
+SH00851,Delayed,6
+SH00852,Delayed,3
+SH00853,Delayed,7
+SH00854,Delayed,7
+SH00855,Delayed,3
+SH00856,On Time,0
+SH00857,On Time,1
+SH00858,Delayed,5
+SH00859,Delayed,7
+SH00860,Delayed,4
+SH00861,On Time,0
+SH00862,On Time,2
+SH00863,Delayed,7
+SH00864,Delayed,7
+SH00865,Delayed,6
+SH00866,Delayed,6
+SH00867,Delayed,6
+SH00868,On Time,1
+SH00869,On Time,1
+SH00870,Delayed,6
+SH00871,Delayed,3
+SH00872,Delayed,4
+SH00873,Delayed,6
+SH00874,Delayed,7
+SH00875,Delayed,4
+SH00876,On Time,2
+SH00877,Delayed,7
+SH00878,Delayed,7
+SH00879,On Time,2
+SH00880,Delayed,6
+SH00881,Delayed,4
+SH00882,On Time,2
+SH00883,Delayed,7
+SH00884,Delayed,3
+SH00885,Delayed,4
+SH00886,Delayed,4
+SH00887,On Time,1
+SH00888,On Time,1
+SH00889,Delayed,5
+SH00890,Delayed,6
+SH00891,Delayed,7
+SH00892,On Time,2
+SH00893,Delayed,3
+SH00894,Delayed,7
+SH00895,Delayed,5
+SH00896,Delayed,7
+SH00897,Delayed,5
+SH00898,On Time,1
+SH00899,On Time,1
+SH00900,On Time,1
+SH00901,On Time,2
+SH00902,Delayed,5
+SH00903,On Time,0
+SH00904,Delayed,6
+SH00905,Delayed,4
+SH00906,On Time,0
+SH00907,Delayed,4
+SH00908,Delayed,6
+SH00909,Delayed,6
+SH00910,On Time,0
+SH00911,Delayed,3
+SH00912,On Time,0
+SH00913,On Time,2
+SH00914,On Time,0
+SH00915,Delayed,6
+SH00916,On Time,2
+SH00917,On Time,1
+SH00918,On Time,1
+SH00919,On Time,2
+SH00920,Delayed,7
+SH00921,Delayed,6
+SH00922,Delayed,3
+SH00923,Delayed,4
+SH00924,On Time,0
+SH00925,Delayed,6
+SH00926,Delayed,3
+SH00927,Delayed,6
+SH00928,Delayed,4
+SH00929,On Time,1
+SH00930,Delayed,6
+SH00931,On Time,2
+SH00932,Delayed,7
+SH00933,Delayed,4
+SH00934,On Time,2
+SH00935,Delayed,6
+SH00936,On Time,2
+SH00937,Delayed,5
+SH00938,Delayed,7
+SH00939,On Time,2
+SH00940,Delayed,3
+SH00941,Delayed,3
+SH00942,On Time,2
+SH00943,On Time,2
+SH00944,Delayed,7
+SH00945,Delayed,7
+SH00946,On Time,2
+SH00947,On Time,0
+SH00948,Delayed,3
+SH00949,Delayed,6
+SH00950,Delayed,5
+SH00951,Delayed,4
+SH00952,Delayed,6
+SH00953,Delayed,3
+SH00954,Delayed,3
+SH00955,Delayed,6
+SH00956,Delayed,7
+SH00957,Delayed,4
+SH00958,On Time,2
+SH00959,Delayed,6
+SH00960,Delayed,7
+SH00961,Delayed,6
+SH00962,Delayed,4
+SH00963,Delayed,7
+SH00964,Delayed,3
+SH00965,On Time,2
+SH00966,Delayed,7
+SH00967,On Time,1
+SH00968,Delayed,6
+SH00969,Delayed,5
+SH00970,On Time,2
+SH00971,Delayed,3
+SH00972,On Time,1
+SH00973,Delayed,5
+SH00974,Delayed,7
+SH00975,Delayed,5
+SH00976,Delayed,5
+SH00977,On Time,0
+SH00978,On Time,0
+SH00979,On Time,2
+SH00980,Delayed,7
+SH00981,On Time,1
+SH00982,Delayed,6
+SH00983,Delayed,5
+SH00984,Delayed,3
+SH00985,Delayed,6
+SH00986,On Time,1
+SH00987,Delayed,6
+SH00988,Delayed,7
+SH00989,On Time,0
+SH00990,Delayed,7
+SH00991,Delayed,6
+SH00992,Delayed,3
+SH00993,Delayed,3
+SH00994,Delayed,3
+SH00995,On Time,2
+SH00996,Delayed,3
+SH00997,Delayed,7
+SH00998,Delayed,7
+SH00999,Delayed,5
+SH01000,Delayed,4
+SH01001,On Time,2
+SH01002,Delayed,3
+SH01003,Delayed,6
+SH01004,Delayed,7
+SH01005,Delayed,5
+SH01006,Delayed,3
+SH01007,Delayed,5
+SH01008,On Time,1
+SH01009,Delayed,5
+SH01010,Delayed,3
+SH01011,On Time,1
+SH01012,On Time,1
+SH01013,On Time,2
+SH01014,Delayed,4
+SH01015,Delayed,5
+SH01016,Delayed,7
+SH01017,On Time,0
+SH01018,Delayed,3
+SH01019,Delayed,5
+SH01020,Delayed,7
+SH01021,On Time,2
+SH01022,Delayed,4
+SH01023,On Time,2
+SH01024,Delayed,3
+SH01025,Delayed,5
+SH01026,Delayed,4
+SH01027,On Time,2
+SH01028,On Time,1
+SH01029,On Time,2
+SH01030,On Time,0
+SH01031,Delayed,7
+SH01032,Delayed,3
+SH01033,Delayed,6
+SH01034,On Time,1
+SH01035,On Time,0
+SH01036,Delayed,3
+SH01037,Delayed,5
+SH01038,Delayed,4
+SH01039,Delayed,3
+SH01040,Delayed,6
+SH01041,Delayed,3
+SH01042,Delayed,7
+SH01043,Delayed,3
+SH01044,On Time,1
+SH01045,On Time,2
+SH01046,Delayed,5
+SH01047,Delayed,5
+SH01048,Delayed,4
+SH01049,Delayed,7
+SH01050,Delayed,4
+SH01051,Delayed,7
+SH01052,Delayed,4
+SH01053,Delayed,7
+SH01054,On Time,2
+SH01055,Delayed,6
+SH01056,On Time,0
+SH01057,Delayed,5
+SH01058,Delayed,6
+SH01059,On Time,0
+SH01060,Delayed,7
+SH01061,On Time,0
+SH01062,On Time,1
+SH01063,On Time,2
+SH01064,Delayed,6
+SH01065,Delayed,4
+SH01066,Delayed,3
+SH01067,Delayed,3
+SH01068,On Time,2
+SH01069,Delayed,5
+SH01070,Delayed,3
+SH01071,On Time,2
+SH01072,Delayed,3
+SH01073,Delayed,3
+SH01074,On Time,0
+SH01075,Delayed,5
+SH01076,On Time,2
+SH01077,Delayed,7
+SH01078,On Time,1
+SH01079,On Time,0
+SH01080,Delayed,3
+SH01081,Delayed,3
+SH01082,Delayed,4
+SH01083,On Time,1
+SH01084,Delayed,6
+SH01085,Delayed,3
+SH01086,On Time,0
+SH01087,Delayed,3
+SH01088,On Time,0
+SH01089,On Time,0
+SH01090,On Time,0
+SH01091,Delayed,7
+SH01092,On Time,1
+SH01093,Delayed,4
+SH01094,On Time,0
+SH01095,Delayed,7
+SH01096,Delayed,3
+SH01097,Delayed,4
+SH01098,Delayed,3
+SH01099,Delayed,7
+SH01100,Delayed,7
+SH01101,Delayed,7
+SH01102,Delayed,4
+SH01103,Delayed,6
+SH01104,Delayed,6
+SH01105,Delayed,6
+SH01106,On Time,0
+SH01107,Delayed,3
+SH01108,Delayed,7
+SH01109,On Time,0
+SH01110,On Time,2
+SH01111,Delayed,5
+SH01112,Delayed,5
+SH01113,On Time,1
+SH01114,Delayed,6
+SH01115,Delayed,7
+SH01116,Delayed,7
+SH01117,On Time,0
+SH01118,Delayed,6
+SH01119,On Time,0
+SH01120,Delayed,7
+SH01121,On Time,2
+SH01122,Delayed,6
+SH01123,Delayed,6
+SH01124,On Time,2
+SH01125,Delayed,6
+SH01126,Delayed,6
+SH01127,On Time,1
+SH01128,On Time,0
+SH01129,On Time,2
+SH01130,Delayed,6
+SH01131,Delayed,7
+SH01132,Delayed,4
+SH01133,Delayed,5
+SH01134,Delayed,6
+SH01135,Delayed,5
+SH01136,Delayed,5
+SH01137,Delayed,6
+SH01138,Delayed,6
+SH01139,On Time,0
+SH01140,Delayed,5
+SH01141,Delayed,7
+SH01142,On Time,0
+SH01143,Delayed,5
+SH01144,Delayed,7
+SH01145,Delayed,3
+SH01146,On Time,2
+SH01147,On Time,1
+SH01148,On Time,2
+SH01149,Delayed,4
+SH01150,Delayed,3
+SH01151,Delayed,4
+SH01152,Delayed,3
+SH01153,On Time,1
+SH01154,On Time,1
+SH01155,Delayed,5
+SH01156,On Time,0
+SH01157,Delayed,7
+SH01158,Delayed,6
+SH01159,On Time,2
+SH01160,Delayed,7
+SH01161,On Time,2
+SH01162,Delayed,5
+SH01163,On Time,1
+SH01164,Delayed,6
+SH01165,On Time,2
+SH01166,On Time,1
+SH01167,Delayed,4
+SH01168,On Time,0
+SH01169,Delayed,6
+SH01170,Delayed,6
+SH01171,Delayed,6
+SH01172,Delayed,6
+SH01173,Delayed,4
+SH01174,On Time,0
+SH01175,Delayed,3
+SH01176,Delayed,3
+SH01177,Delayed,6
+SH01178,Delayed,5
+SH01179,Delayed,5
+SH01180,On Time,0
+SH01181,On Time,1
+SH01182,Delayed,3
+SH01183,Delayed,5
+SH01184,Delayed,4
+SH01185,Delayed,7
+SH01186,On Time,1
+SH01187,Delayed,6
+SH01188,Delayed,5
+SH01189,Delayed,4
+SH01190,On Time,0
+SH01191,On Time,2
+SH01192,Delayed,5
+SH01193,Delayed,4
+SH01194,Delayed,3
+SH01195,Delayed,6
+SH01196,Delayed,6
+SH01197,On Time,0
+SH01198,Delayed,7
+SH01199,On Time,2
+SH01200,Delayed,6
+SH01201,On Time,0
+SH01202,On Time,2
+SH01203,On Time,0
+SH01204,Delayed,4
+SH01205,On Time,0
+SH01206,Delayed,3
+SH01207,Delayed,4
+SH01208,Delayed,6
+SH01209,Delayed,3
+SH01210,Delayed,7
+SH01211,On Time,1
+SH01212,On Time,0
+SH01213,Delayed,3
+SH01214,Delayed,6
+SH01215,On Time,1
+SH01216,On Time,2
+SH01217,Delayed,4
+SH01218,Delayed,7
+SH01219,Delayed,5
+SH01220,Delayed,6
+SH01221,On Time,1
+SH01222,Delayed,6
+SH01223,Delayed,4
+SH01224,Delayed,7
+SH01225,On Time,1
+SH01226,Delayed,6
+SH01227,Delayed,5
+SH01228,Delayed,4
+SH01229,Delayed,3
+SH01230,Delayed,4
+SH01231,On Time,0
+SH01232,Delayed,3
+SH01233,Delayed,5
+SH01234,Delayed,5
+SH01235,On Time,2
+SH01236,On Time,1
+SH01237,On Time,1
+SH01238,Delayed,5
+SH01239,Delayed,4
+SH01240,On Time,0
+SH01241,Delayed,7
+SH01242,On Time,0
+SH01243,Delayed,5
+SH01244,On Time,0
+SH01245,On Time,1
+SH01246,Delayed,5
+SH01247,Delayed,3
+SH01248,On Time,1
+SH01249,On Time,2
+SH01250,On Time,2
+SH01251,Delayed,5
+SH01252,On Time,1
+SH01253,On Time,2
+SH01254,On Time,1
+SH01255,Delayed,4
+SH01256,On Time,1
+SH01257,Delayed,5
+SH01258,On Time,1
+SH01259,On Time,0
+SH01260,Delayed,5
+SH01261,On Time,0
+SH01262,Delayed,7
+SH01263,Delayed,4
+SH01264,On Time,0
+SH01265,On Time,2
+SH01266,Delayed,7
+SH01267,On Time,1
+SH01268,On Time,2
+SH01269,Delayed,7
+SH01270,Delayed,5
+SH01271,Delayed,3
+SH01272,On Time,0
+SH01273,On Time,0
+SH01274,Delayed,6
+SH01275,Delayed,7
+SH01276,Delayed,4
+SH01277,Delayed,7
+SH01278,On Time,1
+SH01279,Delayed,3
+SH01280,Delayed,5
+SH01281,Delayed,5
+SH01282,Delayed,7
+SH01283,On Time,1
+SH01284,Delayed,5
+SH01285,Delayed,3
+SH01286,On Time,2
+SH01287,Delayed,5
+SH01288,Delayed,6
+SH01289,Delayed,4
+SH01290,On Time,2
+SH01291,Delayed,4
+SH01292,Delayed,4
+SH01293,Delayed,3
+SH01294,On Time,2
+SH01295,Delayed,5
+SH01296,Delayed,4
+SH01297,Delayed,7
+SH01298,On Time,1
+SH01299,On Time,1
+SH01300,Delayed,4
+SH01301,Delayed,6
+SH01302,Delayed,3
+SH01303,Delayed,5
+SH01304,Delayed,3
+SH01305,Delayed,3
+SH01306,Delayed,5
+SH01307,Delayed,3
+SH01308,On Time,0
+SH01309,Delayed,7
+SH01310,On Time,0
+SH01311,On Time,1
+SH01312,On Time,2
+SH01313,Delayed,4
+SH01314,On Time,2
+SH01315,On Time,0
+SH01316,Delayed,4
+SH01317,Delayed,6
+SH01318,Delayed,6
+SH01319,On Time,1
+SH01320,On Time,0
+SH01321,On Time,1
+SH01322,On Time,1
+SH01323,On Time,1
+SH01324,Delayed,4
+SH01325,Delayed,5
+SH01326,Delayed,4
+SH01327,On Time,0
+SH01328,Delayed,6
+SH01329,On Time,2
+SH01330,On Time,0
+SH01331,On Time,1
+SH01332,On Time,2
+SH01333,Delayed,4
+SH01334,On Time,0
+SH01335,On Time,0
+SH01336,Delayed,5
+SH01337,Delayed,4
+SH01338,Delayed,4
+SH01339,Delayed,6
+SH01340,On Time,2
+SH01341,Delayed,5
+SH01342,Delayed,4
+SH01343,Delayed,3
+SH01344,Delayed,5
+SH01345,On Time,0
+SH01346,Delayed,7
+SH01347,Delayed,5
+SH01348,On Time,0
+SH01349,Delayed,6
+SH01350,On Time,2
+SH01351,Delayed,4
+SH01352,Delayed,6
+SH01353,On Time,2
+SH01354,On Time,0
+SH01355,Delayed,6
+SH01356,On Time,0
+SH01357,Delayed,4
+SH01358,On Time,1
+SH01359,Delayed,3
+SH01360,On Time,1
+SH01361,Delayed,5
+SH01362,Delayed,6
+SH01363,On Time,2
+SH01364,Delayed,4
+SH01365,On Time,0
+SH01366,Delayed,7
+SH01367,Delayed,3
+SH01368,Delayed,4
+SH01369,On Time,0
+SH01370,Delayed,3
+SH01371,Delayed,4
+SH01372,On Time,1
+SH01373,Delayed,6
+SH01374,Delayed,5
+SH01375,Delayed,6
+SH01376,On Time,2
+SH01377,Delayed,7
+SH01378,Delayed,7
+SH01379,Delayed,4
+SH01380,Delayed,4
+SH01381,Delayed,3
+SH01382,Delayed,6
+SH01383,Delayed,7
+SH01384,Delayed,6
+SH01385,Delayed,5
+SH01386,On Time,2
+SH01387,Delayed,5
+SH01388,Delayed,5
+SH01389,On Time,2
+SH01390,Delayed,6
+SH01391,On Time,1
+SH01392,Delayed,5
+SH01393,Delayed,4
+SH01394,On Time,2
+SH01395,Delayed,7
+SH01396,On Time,2
+SH01397,Delayed,4
+SH01398,Delayed,6
+SH01399,Delayed,5
+SH01400,Delayed,4
+SH01401,On Time,2
+SH01402,Delayed,5
+SH01403,Delayed,4
+SH01404,Delayed,7
+SH01405,Delayed,3
+SH01406,Delayed,3
+SH01407,Delayed,6
+SH01408,Delayed,6
+SH01409,On Time,0
+SH01410,On Time,1
+SH01411,On Time,0
+SH01412,Delayed,5
+SH01413,Delayed,3
+SH01414,On Time,0
+SH01415,Delayed,3
+SH01416,On Time,1
+SH01417,Delayed,5
+SH01418,Delayed,7
+SH01419,On Time,0
+SH01420,On Time,2
+SH01421,On Time,0
+SH01422,Delayed,6
+SH01423,On Time,1
+SH01424,On Time,2
+SH01425,Delayed,6
+SH01426,Delayed,7
+SH01427,Delayed,6
+SH01428,Delayed,5
+SH01429,Delayed,7
+SH01430,Delayed,5
+SH01431,On Time,2
+SH01432,Delayed,6
+SH01433,On Time,0
+SH01434,Delayed,4
+SH01435,On Time,1
+SH01436,On Time,2
+SH01437,Delayed,3
+SH01438,Delayed,4
+SH01439,Delayed,7
+SH01440,Delayed,7
+SH01441,Delayed,6
+SH01442,On Time,1
+SH01443,Delayed,6
+SH01444,Delayed,3
+SH01445,On Time,2
+SH01446,Delayed,7
+SH01447,Delayed,7
+SH01448,Delayed,6
+SH01449,On Time,0
+SH01450,On Time,0
+SH01451,On Time,1
+SH01452,Delayed,4
+SH01453,Delayed,3
+SH01454,On Time,1
+SH01455,Delayed,7
+SH01456,Delayed,7
+SH01457,On Time,2
+SH01458,On Time,2
+SH01459,On Time,0
+SH01460,On Time,0
+SH01461,Delayed,6
+SH01462,On Time,0
+SH01463,Delayed,3
+SH01464,Delayed,4
+SH01465,On Time,2
+SH01466,Delayed,5
+SH01467,Delayed,6
+SH01468,Delayed,6
+SH01469,Delayed,7
+SH01470,Delayed,4
+SH01471,Delayed,6
+SH01472,On Time,2
+SH01473,Delayed,7
+SH01474,Delayed,7
+SH01475,Delayed,3
+SH01476,Delayed,7
+SH01477,Delayed,5
+SH01478,Delayed,4
+SH01479,Delayed,5
+SH01480,Delayed,5
+SH01481,On Time,0
+SH01482,Delayed,5
+SH01483,On Time,1
+SH01484,On Time,0
+SH01485,On Time,0
+SH01486,Delayed,7
+SH01487,Delayed,5
+SH01488,Delayed,6
+SH01489,On Time,1
+SH01490,On Time,1
+SH01491,Delayed,7
+SH01492,On Time,1
+SH01493,Delayed,6
+SH01494,Delayed,4
+SH01495,On Time,0
+SH01496,Delayed,7
+SH01497,On Time,1
+SH01498,On Time,0
+SH01499,Delayed,7
+SH01500,Delayed,6
+SH01501,On Time,2
+SH01502,On Time,1
+SH01503,On Time,0
+SH01504,Delayed,7
+SH01505,Delayed,4
+SH01506,Delayed,7
+SH01507,Delayed,4
+SH01508,Delayed,6
+SH01509,Delayed,7
+SH01510,Delayed,4
+SH01511,Delayed,7
+SH01512,Delayed,5
+SH01513,Delayed,7
+SH01514,Delayed,4
+SH01515,Delayed,5
+SH01516,On Time,0
+SH01517,Delayed,4
+SH01518,Delayed,3
+SH01519,Delayed,7
+SH01520,Delayed,5
+SH01521,Delayed,4
+SH01522,Delayed,4
+SH01523,On Time,1
+SH01524,Delayed,3
+SH01525,On Time,0
+SH01526,Delayed,3
+SH01527,Delayed,3
+SH01528,Delayed,5
+SH01529,On Time,1
+SH01530,Delayed,3
+SH01531,Delayed,7
+SH01532,On Time,1
+SH01533,Delayed,4
+SH01534,Delayed,5
+SH01535,On Time,2
+SH01536,Delayed,3
+SH01537,Delayed,5
+SH01538,On Time,0
+SH01539,On Time,1
+SH01540,On Time,2
+SH01541,Delayed,5
+SH01542,On Time,1
+SH01543,On Time,0
+SH01544,Delayed,5
+SH01545,On Time,2
+SH01546,Delayed,4
+SH01547,Delayed,5
+SH01548,On Time,2
+SH01549,Delayed,6
+SH01550,Delayed,7
+SH01551,Delayed,3
+SH01552,Delayed,3
+SH01553,Delayed,5
+SH01554,On Time,1
+SH01555,On Time,0
+SH01556,On Time,2
+SH01557,On Time,2
+SH01558,Delayed,7
+SH01559,On Time,2
+SH01560,On Time,2
+SH01561,Delayed,7
+SH01562,On Time,2
+SH01563,On Time,1
+SH01564,Delayed,7
+SH01565,Delayed,5
+SH01566,Delayed,3
+SH01567,On Time,0
+SH01568,On Time,0
+SH01569,Delayed,7
+SH01570,Delayed,5
+SH01571,Delayed,3
+SH01572,Delayed,5
+SH01573,On Time,0
+SH01574,On Time,2
+SH01575,Delayed,5
+SH01576,Delayed,7
+SH01577,On Time,1
+SH01578,On Time,0
+SH01579,Delayed,5
+SH01580,On Time,2
+SH01581,On Time,0
+SH01582,On Time,0
+SH01583,On Time,0
+SH01584,Delayed,7
+SH01585,Delayed,5
+SH01586,On Time,0
+SH01587,Delayed,6
+SH01588,Delayed,4
+SH01589,On Time,1
+SH01590,Delayed,7
+SH01591,Delayed,5
+SH01592,Delayed,3
+SH01593,On Time,0
+SH01594,Delayed,4
+SH01595,Delayed,5
+SH01596,Delayed,5
+SH01597,Delayed,3
+SH01598,On Time,0
+SH01599,Delayed,6
+SH01600,Delayed,6
+SH01601,Delayed,6
+SH01602,On Time,2
+SH01603,Delayed,4
+SH01604,On Time,0
+SH01605,On Time,0
+SH01606,Delayed,3
+SH01607,On Time,1
+SH01608,On Time,0
+SH01609,Delayed,4
+SH01610,Delayed,4
+SH01611,Delayed,3
+SH01612,On Time,2
+SH01613,Delayed,6
+SH01614,On Time,0
+SH01615,Delayed,7
+SH01616,On Time,0
+SH01617,Delayed,4
+SH01618,Delayed,5
+SH01619,Delayed,4
+SH01620,On Time,1
+SH01621,Delayed,4
+SH01622,Delayed,5
+SH01623,On Time,2
+SH01624,Delayed,5
+SH01625,On Time,1
+SH01626,On Time,1
+SH01627,On Time,2
+SH01628,Delayed,5
+SH01629,Delayed,4
+SH01630,On Time,1
+SH01631,Delayed,6
+SH01632,Delayed,7
+SH01633,On Time,1
+SH01634,Delayed,4
+SH01635,Delayed,3
+SH01636,On Time,2
+SH01637,On Time,2
+SH01638,Delayed,7
+SH01639,Delayed,5
+SH01640,On Time,0
+SH01641,Delayed,5
+SH01642,Delayed,6
+SH01643,On Time,2
+SH01644,Delayed,4
+SH01645,Delayed,4
+SH01646,Delayed,6
+SH01647,Delayed,6
+SH01648,On Time,1
+SH01649,On Time,0
+SH01650,On Time,2
+SH01651,Delayed,5
+SH01652,On Time,1
+SH01653,On Time,0
+SH01654,Delayed,5
+SH01655,Delayed,6
+SH01656,Delayed,3
+SH01657,Delayed,6
+SH01658,Delayed,4
+SH01659,On Time,2
+SH01660,Delayed,3
+SH01661,Delayed,3
+SH01662,Delayed,6
+SH01663,On Time,1
+SH01664,On Time,0
+SH01665,On Time,1
+SH01666,On Time,2
+SH01667,Delayed,5
+SH01668,Delayed,3
+SH01669,Delayed,6
+SH01670,Delayed,6
+SH01671,On Time,2
+SH01672,Delayed,7
+SH01673,Delayed,6
+SH01674,Delayed,7
+SH01675,Delayed,4
+SH01676,Delayed,3
+SH01677,Delayed,5
+SH01678,Delayed,5
+SH01679,Delayed,4
+SH01680,Delayed,6
+SH01681,Delayed,4
+SH01682,Delayed,3
+SH01683,Delayed,5
+SH01684,Delayed,6
+SH01685,Delayed,3
+SH01686,Delayed,5
+SH01687,Delayed,7
+SH01688,Delayed,3
+SH01689,Delayed,4
+SH01690,Delayed,4
+SH01691,Delayed,6
+SH01692,Delayed,4
+SH01693,Delayed,5
+SH01694,Delayed,7
+SH01695,On Time,0
+SH01696,Delayed,6
+SH01697,Delayed,5
+SH01698,On Time,0
+SH01699,Delayed,4
+SH01700,Delayed,4
+SH01701,On Time,1
+SH01702,Delayed,5
+SH01703,Delayed,3
+SH01704,Delayed,4
+SH01705,Delayed,5
+SH01706,Delayed,7
+SH01707,Delayed,3
+SH01708,Delayed,4
+SH01709,Delayed,3
+SH01710,Delayed,3
+SH01711,Delayed,6
+SH01712,On Time,2
+SH01713,Delayed,5
+SH01714,On Time,2
+SH01715,Delayed,3
+SH01716,Delayed,7
+SH01717,On Time,0
+SH01718,On Time,0
+SH01719,On Time,0
+SH01720,Delayed,4
+SH01721,Delayed,5
+SH01722,Delayed,6
+SH01723,Delayed,7
+SH01724,Delayed,5
+SH01725,Delayed,5
+SH01726,On Time,0
+SH01727,Delayed,7
+SH01728,On Time,1
+SH01729,Delayed,3
+SH01730,Delayed,3
+SH01731,Delayed,5
+SH01732,On Time,2
+SH01733,On Time,0
+SH01734,On Time,2
+SH01735,Delayed,5
+SH01736,On Time,0
+SH01737,On Time,2
+SH01738,Delayed,6
+SH01739,On Time,1
+SH01740,Delayed,3
+SH01741,Delayed,4
+SH01742,Delayed,4
+SH01743,On Time,2
+SH01744,Delayed,4
+SH01745,Delayed,7
+SH01746,On Time,2
+SH01747,On Time,2
+SH01748,Delayed,5
+SH01749,Delayed,3
+SH01750,On Time,0
+SH01751,Delayed,7
+SH01752,Delayed,6
+SH01753,Delayed,5
+SH01754,On Time,2
+SH01755,Delayed,4
+SH01756,On Time,0
+SH01757,Delayed,5
+SH01758,Delayed,4
+SH01759,On Time,1
+SH01760,On Time,1
+SH01761,Delayed,3
+SH01762,Delayed,4
+SH01763,Delayed,7
+SH01764,Delayed,4
+SH01765,Delayed,5
+SH01766,On Time,2
+SH01767,Delayed,4
+SH01768,Delayed,5
+SH01769,On Time,1
+SH01770,On Time,1
+SH01771,Delayed,6
+SH01772,Delayed,4
+SH01773,Delayed,5
+SH01774,Delayed,5
+SH01775,On Time,2
+SH01776,Delayed,6
+SH01777,Delayed,4
+SH01778,On Time,1
+SH01779,On Time,1
+SH01780,Delayed,4
+SH01781,Delayed,3
+SH01782,Delayed,3
+SH01783,Delayed,5
+SH01784,On Time,1
+SH01785,Delayed,3
+SH01786,On Time,1
+SH01787,On Time,1
+SH01788,Delayed,6
+SH01789,On Time,1
+SH01790,Delayed,6
+SH01791,On Time,1
+SH01792,On Time,2
+SH01793,Delayed,3
+SH01794,Delayed,7
+SH01795,On Time,1
+SH01796,On Time,2
+SH01797,Delayed,5
+SH01798,Delayed,6
+SH01799,Delayed,5
+SH01800,Delayed,6
+SH01801,Delayed,5
+SH01802,Delayed,4
+SH01803,On Time,0
+SH01804,On Time,2
+SH01805,On Time,1
+SH01806,Delayed,5
+SH01807,Delayed,4
+SH01808,Delayed,6
+SH01809,On Time,1
+SH01810,Delayed,4
+SH01811,Delayed,3
+SH01812,Delayed,3
+SH01813,Delayed,4
+SH01814,On Time,2
+SH01815,On Time,1
+SH01816,On Time,1
+SH01817,Delayed,5
+SH01818,On Time,0
+SH01819,On Time,1
+SH01820,Delayed,6
+SH01821,Delayed,3
+SH01822,On Time,1
+SH01823,On Time,1
+SH01824,Delayed,7
+SH01825,Delayed,7
+SH01826,Delayed,7
+SH01827,Delayed,4
+SH01828,Delayed,4
+SH01829,On Time,0
+SH01830,Delayed,4
+SH01831,On Time,2
+SH01832,Delayed,4
+SH01833,Delayed,6
+SH01834,On Time,2
+SH01835,Delayed,3
+SH01836,On Time,1
+SH01837,Delayed,3
+SH01838,On Time,2
+SH01839,On Time,2
+SH01840,On Time,2
+SH01841,Delayed,7
+SH01842,Delayed,7
+SH01843,Delayed,5
+SH01844,Delayed,5
+SH01845,On Time,2
+SH01846,Delayed,7
+SH01847,On Time,2
+SH01848,Delayed,5
+SH01849,On Time,2
+SH01850,Delayed,4
+SH01851,Delayed,7
+SH01852,Delayed,4
+SH01853,On Time,0
+SH01854,Delayed,4
+SH01855,Delayed,3
+SH01856,On Time,0
+SH01857,On Time,0
+SH01858,Delayed,7
+SH01859,Delayed,6
+SH01860,Delayed,4
+SH01861,Delayed,6
+SH01862,Delayed,7
+SH01863,On Time,2
+SH01864,On Time,1
+SH01865,On Time,0
+SH01866,On Time,1
+SH01867,Delayed,3
+SH01868,On Time,2
+SH01869,Delayed,6
+SH01870,Delayed,3
+SH01871,Delayed,4
+SH01872,Delayed,3
+SH01873,Delayed,5
+SH01874,On Time,2
+SH01875,On Time,1
+SH01876,Delayed,4
+SH01877,On Time,2
+SH01878,Delayed,5
+SH01879,Delayed,4
+SH01880,On Time,1
+SH01881,Delayed,6
+SH01882,On Time,2
+SH01883,Delayed,5
+SH01884,On Time,1
+SH01885,On Time,1
+SH01886,Delayed,7
+SH01887,On Time,0
+SH01888,Delayed,6
+SH01889,On Time,1
+SH01890,On Time,0
+SH01891,Delayed,7
+SH01892,Delayed,6
+SH01893,On Time,2
+SH01894,Delayed,5
+SH01895,On Time,2
+SH01896,Delayed,5
+SH01897,Delayed,3
+SH01898,Delayed,4
+SH01899,Delayed,4
+SH01900,On Time,0
+SH01901,Delayed,6
+SH01902,On Time,1
+SH01903,Delayed,6
+SH01904,On Time,2
+SH01905,Delayed,5
+SH01906,On Time,2
+SH01907,Delayed,4
+SH01908,Delayed,6
+SH01909,Delayed,5
+SH01910,Delayed,3
+SH01911,Delayed,5
+SH01912,On Time,1
+SH01913,Delayed,5
+SH01914,Delayed,3
+SH01915,On Time,0
+SH01916,Delayed,3
+SH01917,Delayed,7
+SH01918,Delayed,5
+SH01919,Delayed,7
+SH01920,Delayed,3
+SH01921,On Time,1
+SH01922,On Time,0
+SH01923,On Time,0
+SH01924,Delayed,5
+SH01925,Delayed,4
+SH01926,On Time,1
+SH01927,Delayed,3
+SH01928,On Time,0
+SH01929,Delayed,6
+SH01930,On Time,0
+SH01931,Delayed,7
+SH01932,Delayed,7
+SH01933,Delayed,6
+SH01934,Delayed,5
+SH01935,Delayed,7
+SH01936,Delayed,3
+SH01937,On Time,0
+SH01938,Delayed,7
+SH01939,Delayed,6
+SH01940,Delayed,3
+SH01941,Delayed,7
+SH01942,On Time,2
+SH01943,Delayed,5
+SH01944,On Time,2
+SH01945,Delayed,7
+SH01946,Delayed,5
+SH01947,Delayed,6
+SH01948,Delayed,5
+SH01949,Delayed,5
+SH01950,Delayed,6
+SH01951,On Time,0
+SH01952,Delayed,6
+SH01953,Delayed,5
+SH01954,Delayed,4
+SH01955,On Time,1
+SH01956,Delayed,3
+SH01957,On Time,1
+SH01958,Delayed,7
+SH01959,Delayed,4
+SH01960,Delayed,3
+SH01961,Delayed,7
+SH01962,On Time,2
+SH01963,Delayed,5
+SH01964,Delayed,5
+SH01965,Delayed,3
+SH01966,On Time,2
+SH01967,On Time,1
+SH01968,Delayed,5
+SH01969,Delayed,6
+SH01970,Delayed,6
+SH01971,On Time,1
+SH01972,Delayed,7
+SH01973,Delayed,5
+SH01974,On Time,1
+SH01975,Delayed,6
+SH01976,On Time,2
+SH01977,Delayed,3
+SH01978,Delayed,3
+SH01979,Delayed,6
+SH01980,Delayed,7
+SH01981,Delayed,3
+SH01982,Delayed,7
+SH01983,On Time,2
+SH01984,Delayed,5
+SH01985,On Time,0
+SH01986,Delayed,6
+SH01987,On Time,2
+SH01988,Delayed,5
+SH01989,Delayed,4
+SH01990,On Time,0
+SH01991,Delayed,4
+SH01992,Delayed,6
+SH01993,Delayed,3
+SH01994,Delayed,6
+SH01995,Delayed,3
+SH01996,Delayed,6
+SH01997,Delayed,5
+SH01998,On Time,0
+SH01999,Delayed,4
+SH02000,On Time,2
+SH02001,Delayed,5
+SH02002,Delayed,5
+SH02003,Delayed,7
+SH02004,Delayed,3
+SH02005,Delayed,4
+SH02006,On Time,0
+SH02007,Delayed,6
+SH02008,Delayed,3
+SH02009,Delayed,3
+SH02010,Delayed,5
+SH02011,On Time,0
+SH02012,On Time,2
+SH02013,Delayed,3
+SH02014,Delayed,3
+SH02015,Delayed,6
+SH02016,On Time,0
+SH02017,Delayed,6
+SH02018,Delayed,7
+SH02019,Delayed,6
+SH02020,Delayed,5
+SH02021,On Time,2
+SH02022,On Time,0
+SH02023,Delayed,5
+SH02024,On Time,2
+SH02025,On Time,0
+SH02026,Delayed,6
+SH02027,Delayed,7
+SH02028,Delayed,5
+SH02029,On Time,2
+SH02030,Delayed,6
+SH02031,Delayed,5
+SH02032,Delayed,6
+SH02033,On Time,1
+SH02034,Delayed,4
+SH02035,Delayed,7
+SH02036,On Time,1
+SH02037,On Time,2
+SH02038,On Time,0
+SH02039,Delayed,3
+SH02040,Delayed,5
+SH02041,On Time,0
+SH02042,On Time,0
+SH02043,Delayed,7
+SH02044,On Time,1
+SH02045,On Time,2
+SH02046,Delayed,3
+SH02047,Delayed,5
+SH02048,Delayed,7
+SH02049,On Time,1
+SH02050,On Time,1
+SH02051,Delayed,6
+SH02052,On Time,1
+SH02053,Delayed,4
+SH02054,Delayed,7
+SH02055,Delayed,4
+SH02056,On Time,2
+SH02057,Delayed,6
+SH02058,On Time,1
+SH02059,On Time,0
+SH02060,Delayed,6
+SH02061,Delayed,3
+SH02062,Delayed,7
+SH02063,Delayed,3
+SH02064,Delayed,3
+SH02065,Delayed,6
+SH02066,Delayed,4
+SH02067,On Time,2
+SH02068,On Time,0
+SH02069,Delayed,5
+SH02070,On Time,0
+SH02071,Delayed,3
+SH02072,Delayed,7
+SH02073,Delayed,4
+SH02074,Delayed,6
+SH02075,On Time,1
+SH02076,Delayed,5
+SH02077,Delayed,4
+SH02078,Delayed,4
+SH02079,Delayed,3
+SH02080,Delayed,6
+SH02081,On Time,2
+SH02082,Delayed,3
+SH02083,Delayed,6
+SH02084,On Time,1
+SH02085,Delayed,5
+SH02086,On Time,1
+SH02087,Delayed,3
+SH02088,Delayed,7
+SH02089,Delayed,5
+SH02090,Delayed,5
+SH02091,Delayed,3
+SH02092,Delayed,7
+SH02093,Delayed,5
+SH02094,Delayed,5
+SH02095,On Time,2
+SH02096,Delayed,6
+SH02097,Delayed,5
+SH02098,Delayed,3
+SH02099,Delayed,4
+SH02100,On Time,2
+SH02101,On Time,0
+SH02102,Delayed,3
+SH02103,On Time,1
+SH02104,Delayed,4
+SH02105,Delayed,4
+SH02106,On Time,2
+SH02107,Delayed,4
+SH02108,On Time,0
+SH02109,On Time,2
+SH02110,Delayed,3
+SH02111,On Time,0
+SH02112,Delayed,5
+SH02113,Delayed,5
+SH02114,Delayed,4
+SH02115,Delayed,5
+SH02116,On Time,1
+SH02117,Delayed,6
+SH02118,On Time,2
+SH02119,Delayed,3
+SH02120,On Time,2
+SH02121,On Time,2
+SH02122,Delayed,4
+SH02123,Delayed,5
+SH02124,Delayed,6
+SH02125,On Time,0
+SH02126,Delayed,6
+SH02127,Delayed,4
+SH02128,On Time,1
+SH02129,On Time,1
+SH02130,Delayed,5
+SH02131,On Time,2
+SH02132,Delayed,5
+SH02133,Delayed,4
+SH02134,Delayed,7
+SH02135,Delayed,4
+SH02136,Delayed,6
+SH02137,Delayed,7
+SH02138,Delayed,6
+SH02139,Delayed,7
+SH02140,Delayed,7
+SH02141,On Time,0
+SH02142,Delayed,6
+SH02143,Delayed,6
+SH02144,On Time,2
+SH02145,On Time,0
+SH02146,Delayed,3
+SH02147,Delayed,6
+SH02148,Delayed,6
+SH02149,On Time,1
+SH02150,On Time,1
+SH02151,Delayed,7
+SH02152,Delayed,6
+SH02153,Delayed,6
+SH02154,On Time,2
+SH02155,Delayed,7
+SH02156,On Time,0
+SH02157,Delayed,5
+SH02158,Delayed,6
+SH02159,Delayed,3
+SH02160,On Time,1
+SH02161,On Time,0
+SH02162,On Time,1
+SH02163,On Time,2
+SH02164,Delayed,4
+SH02165,Delayed,5
+SH02166,On Time,2
+SH02167,Delayed,3
+SH02168,Delayed,7
+SH02169,Delayed,6
+SH02170,Delayed,7
+SH02171,On Time,0
+SH02172,On Time,0
+SH02173,On Time,1
+SH02174,On Time,0
+SH02175,Delayed,7
+SH02176,Delayed,3
+SH02177,On Time,0
+SH02178,Delayed,6
+SH02179,Delayed,6
+SH02180,Delayed,3
+SH02181,Delayed,4
+SH02182,Delayed,6
+SH02183,Delayed,7
+SH02184,Delayed,4
+SH02185,Delayed,6
+SH02186,Delayed,6
+SH02187,On Time,1
+SH02188,Delayed,7
+SH02189,Delayed,6
+SH02190,Delayed,5
+SH02191,Delayed,4
+SH02192,On Time,0
+SH02193,Delayed,5
+SH02194,Delayed,3
+SH02195,Delayed,6
+SH02196,Delayed,6
+SH02197,Delayed,6
+SH02198,On Time,1
+SH02199,On Time,0
+SH02200,Delayed,7
+SH02201,On Time,1
+SH02202,On Time,0
+SH02203,Delayed,6
+SH02204,Delayed,7
+SH02205,Delayed,5
+SH02206,On Time,1
+SH02207,Delayed,6
+SH02208,Delayed,6
+SH02209,Delayed,7
+SH02210,Delayed,3
+SH02211,Delayed,4
+SH02212,Delayed,4
+SH02213,Delayed,6
+SH02214,On Time,0
+SH02215,On Time,1
+SH02216,Delayed,5
+SH02217,On Time,1
+SH02218,Delayed,6
+SH02219,On Time,0
+SH02220,On Time,2
+SH02221,Delayed,5
+SH02222,Delayed,7
+SH02223,Delayed,6
+SH02224,Delayed,4
+SH02225,On Time,0
+SH02226,On Time,0
+SH02227,Delayed,4
+SH02228,Delayed,6
+SH02229,Delayed,6
+SH02230,Delayed,3
+SH02231,On Time,2
+SH02232,Delayed,4
+SH02233,On Time,2
+SH02234,On Time,2
+SH02235,Delayed,4
+SH02236,Delayed,6
+SH02237,On Time,2
+SH02238,Delayed,7
+SH02239,On Time,2
+SH02240,On Time,2
+SH02241,Delayed,7
+SH02242,Delayed,4
+SH02243,Delayed,5
+SH02244,Delayed,3
+SH02245,Delayed,7
+SH02246,On Time,1
+SH02247,Delayed,3
+SH02248,Delayed,6
+SH02249,Delayed,3
+SH02250,On Time,2
+SH02251,Delayed,3
+SH02252,On Time,0
+SH02253,On Time,1
+SH02254,On Time,1
+SH02255,On Time,2
+SH02256,Delayed,7
+SH02257,Delayed,5
+SH02258,On Time,0
+SH02259,Delayed,5
+SH02260,On Time,1
+SH02261,Delayed,3
+SH02262,Delayed,7
+SH02263,On Time,0
+SH02264,Delayed,5
+SH02265,Delayed,7
+SH02266,On Time,2
+SH02267,On Time,2
+SH02268,Delayed,5
+SH02269,Delayed,7
+SH02270,On Time,1
+SH02271,Delayed,4
+SH02272,Delayed,7
+SH02273,Delayed,4
+SH02274,Delayed,6
+SH02275,Delayed,3
+SH02276,Delayed,3
+SH02277,Delayed,6
+SH02278,Delayed,3
+SH02279,Delayed,7
+SH02280,On Time,2
+SH02281,Delayed,3
+SH02282,Delayed,6
+SH02283,Delayed,5
+SH02284,On Time,1
+SH02285,Delayed,4
+SH02286,On Time,1
+SH02287,On Time,1
+SH02288,Delayed,6
+SH02289,Delayed,7
+SH02290,On Time,2
+SH02291,On Time,1
+SH02292,On Time,0
+SH02293,On Time,0
+SH02294,Delayed,5
+SH02295,On Time,2
+SH02296,Delayed,4
+SH02297,Delayed,5
+SH02298,On Time,1
+SH02299,Delayed,5
+SH02300,Delayed,4
+SH02301,On Time,0
+SH02302,On Time,0
+SH02303,Delayed,4
+SH02304,Delayed,6
+SH02305,On Time,1
+SH02306,On Time,1
+SH02307,Delayed,6
+SH02308,On Time,2
+SH02309,Delayed,4
+SH02310,On Time,1
+SH02311,Delayed,3
+SH02312,Delayed,4
+SH02313,Delayed,6
+SH02314,Delayed,3
+SH02315,On Time,1
+SH02316,Delayed,7
+SH02317,On Time,0
+SH02318,On Time,2
+SH02319,Delayed,7
+SH02320,On Time,2
+SH02321,Delayed,3
+SH02322,On Time,2
+SH02323,Delayed,4
+SH02324,Delayed,6
+SH02325,Delayed,3
+SH02326,Delayed,3
+SH02327,Delayed,6
+SH02328,Delayed,6
+SH02329,Delayed,5
+SH02330,Delayed,3
+SH02331,Delayed,6
+SH02332,On Time,2
+SH02333,On Time,1
+SH02334,On Time,0
+SH02335,On Time,2
+SH02336,Delayed,7
+SH02337,Delayed,3
+SH02338,Delayed,7
+SH02339,Delayed,4
+SH02340,Delayed,5
+SH02341,On Time,0
+SH02342,Delayed,3
+SH02343,On Time,2
+SH02344,Delayed,6
+SH02345,On Time,2
+SH02346,On Time,2
+SH02347,Delayed,7
+SH02348,On Time,2
+SH02349,Delayed,7
+SH02350,On Time,0
+SH02351,Delayed,7
+SH02352,Delayed,6
+SH02353,On Time,1
+SH02354,On Time,2
+SH02355,Delayed,6
+SH02356,On Time,1
+SH02357,Delayed,3
+SH02358,Delayed,3
+SH02359,Delayed,3
+SH02360,Delayed,6
+SH02361,On Time,2
+SH02362,On Time,2
+SH02363,Delayed,4
+SH02364,Delayed,3
+SH02365,On Time,0
+SH02366,Delayed,4
+SH02367,Delayed,7
+SH02368,Delayed,3
+SH02369,Delayed,3
+SH02370,Delayed,4
+SH02371,Delayed,4
+SH02372,On Time,1
+SH02373,Delayed,5
+SH02374,Delayed,5
+SH02375,Delayed,7
+SH02376,On Time,1
+SH02377,Delayed,5
+SH02378,Delayed,4
+SH02379,Delayed,5
+SH02380,Delayed,7
+SH02381,On Time,1
+SH02382,On Time,1
+SH02383,Delayed,5
+SH02384,Delayed,3
+SH02385,Delayed,6
+SH02386,On Time,0
+SH02387,Delayed,3
+SH02388,On Time,2
+SH02389,On Time,1
+SH02390,On Time,2
+SH02391,On Time,1
+SH02392,Delayed,5
+SH02393,Delayed,3
+SH02394,Delayed,5
+SH02395,Delayed,7
+SH02396,Delayed,4
+SH02397,On Time,1
+SH02398,On Time,0
+SH02399,Delayed,6
+SH02400,Delayed,6
+SH02401,On Time,0
+SH02402,Delayed,3
+SH02403,On Time,1
+SH02404,Delayed,4
+SH02405,On Time,1
+SH02406,Delayed,3
+SH02407,Delayed,7
+SH02408,On Time,2
+SH02409,Delayed,7
+SH02410,Delayed,3
+SH02411,Delayed,6
+SH02412,Delayed,5
+SH02413,Delayed,6
+SH02414,On Time,0
+SH02415,Delayed,3
+SH02416,Delayed,3
+SH02417,On Time,2
+SH02418,Delayed,3
+SH02419,Delayed,6
+SH02420,On Time,0
+SH02421,Delayed,5
+SH02422,Delayed,4
+SH02423,On Time,1
+SH02424,Delayed,3
+SH02425,On Time,0
+SH02426,On Time,0
+SH02427,Delayed,4
+SH02428,On Time,0
+SH02429,On Time,0
+SH02430,On Time,2
+SH02431,On Time,0
+SH02432,On Time,1
+SH02433,Delayed,7
+SH02434,Delayed,6
+SH02435,On Time,1
+SH02436,Delayed,3
+SH02437,Delayed,4
+SH02438,On Time,2
+SH02439,Delayed,4
+SH02440,Delayed,4
+SH02441,Delayed,4
+SH02442,Delayed,6
+SH02443,On Time,2
+SH02444,Delayed,7
+SH02445,Delayed,3
+SH02446,Delayed,5
+SH02447,Delayed,7
+SH02448,On Time,2
+SH02449,Delayed,5
+SH02450,On Time,1
+SH02451,Delayed,5
+SH02452,Delayed,3
+SH02453,Delayed,5
+SH02454,Delayed,6
+SH02455,On Time,0
+SH02456,On Time,1
+SH02457,Delayed,6
+SH02458,Delayed,7
+SH02459,Delayed,5
+SH02460,On Time,0
+SH02461,Delayed,7
+SH02462,On Time,2
+SH02463,On Time,0
+SH02464,Delayed,5
+SH02465,On Time,0
+SH02466,On Time,0
+SH02467,On Time,2
+SH02468,Delayed,6
+SH02469,On Time,1
+SH02470,On Time,1
+SH02471,On Time,2
+SH02472,On Time,0
+SH02473,Delayed,7
+SH02474,On Time,2
+SH02475,Delayed,7
+SH02476,Delayed,4
+SH02477,Delayed,6
+SH02478,Delayed,5
+SH02479,On Time,2
+SH02480,On Time,0
+SH02481,Delayed,5
+SH02482,Delayed,5
+SH02483,On Time,2
+SH02484,Delayed,6
+SH02485,Delayed,4
+SH02486,On Time,1
+SH02487,On Time,0
+SH02488,Delayed,6
+SH02489,Delayed,7
+SH02490,Delayed,4
+SH02491,Delayed,4
+SH02492,On Time,0
+SH02493,Delayed,5
+SH02494,On Time,2
+SH02495,Delayed,3
+SH02496,Delayed,6
+SH02497,Delayed,3
+SH02498,Delayed,7
+SH02499,Delayed,7
+SH02500,On Time,1
+SH02501,Delayed,6
+SH02502,On Time,1
+SH02503,Delayed,6
+SH02504,Delayed,6
+SH02505,Delayed,4
+SH02506,On Time,2
+SH02507,On Time,0
+SH02508,On Time,1
+SH02509,On Time,1
+SH02510,Delayed,5
+SH02511,On Time,2
+SH02512,On Time,0
+SH02513,On Time,2
+SH02514,Delayed,6
+SH02515,Delayed,5
+SH02516,Delayed,6
+SH02517,On Time,2
+SH02518,On Time,0
+SH02519,Delayed,7
+SH02520,Delayed,7
+SH02521,Delayed,5
+SH02522,On Time,2
+SH02523,Delayed,7
+SH02524,On Time,1
+SH02525,Delayed,7
+SH02526,On Time,0
+SH02527,On Time,1
+SH02528,Delayed,5
+SH02529,Delayed,6
+SH02530,On Time,1
+SH02531,Delayed,7
+SH02532,On Time,1
+SH02533,Delayed,4
+SH02534,Delayed,6
+SH02535,On Time,1
+SH02536,Delayed,3
+SH02537,Delayed,5
+SH02538,Delayed,4
+SH02539,On Time,1
+SH02540,Delayed,6
+SH02541,Delayed,6
+SH02542,On Time,2
+SH02543,Delayed,7
+SH02544,Delayed,6
+SH02545,Delayed,3
+SH02546,On Time,2
+SH02547,Delayed,5
+SH02548,Delayed,5
+SH02549,Delayed,5
+SH02550,Delayed,4
+SH02551,On Time,0
+SH02552,Delayed,3
+SH02553,Delayed,7
+SH02554,Delayed,5
+SH02555,Delayed,7
+SH02556,Delayed,6
+SH02557,On Time,2
+SH02558,Delayed,6
+SH02559,Delayed,7
+SH02560,Delayed,3
+SH02561,Delayed,7
+SH02562,Delayed,3
+SH02563,Delayed,6
+SH02564,Delayed,5
+SH02565,Delayed,7
+SH02566,Delayed,4
+SH02567,Delayed,4
+SH02568,Delayed,5
+SH02569,Delayed,4
+SH02570,Delayed,6
+SH02571,Delayed,6
+SH02572,On Time,2
+SH02573,Delayed,4
+SH02574,Delayed,7
+SH02575,Delayed,3
+SH02576,Delayed,5
+SH02577,On Time,0
+SH02578,On Time,2
+SH02579,Delayed,4
+SH02580,Delayed,4
+SH02581,On Time,2
+SH02582,Delayed,6
+SH02583,On Time,2
+SH02584,Delayed,4
+SH02585,On Time,0
+SH02586,Delayed,6
+SH02587,Delayed,5
+SH02588,On Time,2
+SH02589,Delayed,4
+SH02590,Delayed,5
+SH02591,On Time,2
+SH02592,Delayed,4
+SH02593,Delayed,3
+SH02594,Delayed,7
+SH02595,Delayed,7
+SH02596,On Time,2
+SH02597,Delayed,3
+SH02598,On Time,1
+SH02599,Delayed,3
+SH02600,On Time,2
+SH02601,Delayed,4
+SH02602,On Time,0
+SH02603,Delayed,3
+SH02604,On Time,2
+SH02605,On Time,1
+SH02606,Delayed,7
+SH02607,Delayed,5
+SH02608,On Time,0
+SH02609,Delayed,5
+SH02610,On Time,2
+SH02611,Delayed,7
+SH02612,Delayed,6
+SH02613,Delayed,5
+SH02614,Delayed,3
+SH02615,On Time,2
+SH02616,Delayed,4
+SH02617,On Time,0
+SH02618,Delayed,3
+SH02619,On Time,2
+SH02620,On Time,2
+SH02621,Delayed,7
+SH02622,Delayed,3
+SH02623,Delayed,5
+SH02624,Delayed,5
+SH02625,On Time,2
+SH02626,Delayed,3
+SH02627,Delayed,6
+SH02628,Delayed,4
+SH02629,Delayed,3
+SH02630,Delayed,6
+SH02631,Delayed,7
+SH02632,On Time,1
+SH02633,On Time,0
+SH02634,Delayed,6
+SH02635,Delayed,3
+SH02636,On Time,0
+SH02637,Delayed,7
+SH02638,Delayed,7
+SH02639,On Time,1
+SH02640,Delayed,7
+SH02641,Delayed,3
+SH02642,Delayed,4
+SH02643,On Time,1
+SH02644,Delayed,6
+SH02645,Delayed,4
+SH02646,Delayed,7
+SH02647,Delayed,3
+SH02648,Delayed,4
+SH02649,Delayed,3
+SH02650,Delayed,4
+SH02651,Delayed,3
+SH02652,On Time,2
+SH02653,On Time,1
+SH02654,Delayed,4
+SH02655,On Time,2
+SH02656,Delayed,5
+SH02657,Delayed,6
+SH02658,On Time,2
+SH02659,On Time,0
+SH02660,Delayed,4
+SH02661,Delayed,7
+SH02662,On Time,2
+SH02663,Delayed,6
+SH02664,On Time,2
+SH02665,Delayed,3
+SH02666,On Time,0
+SH02667,Delayed,4
+SH02668,Delayed,7
+SH02669,Delayed,6
+SH02670,Delayed,4
+SH02671,Delayed,7
+SH02672,Delayed,5
+SH02673,On Time,1
+SH02674,On Time,2
+SH02675,Delayed,5
+SH02676,Delayed,6
+SH02677,Delayed,6
+SH02678,Delayed,3
+SH02679,Delayed,7
+SH02680,Delayed,7
+SH02681,On Time,1
+SH02682,Delayed,5
+SH02683,Delayed,7
+SH02684,Delayed,5
+SH02685,Delayed,6
+SH02686,Delayed,6
+SH02687,Delayed,5
+SH02688,Delayed,6
+SH02689,Delayed,3
+SH02690,On Time,2
+SH02691,Delayed,3
+SH02692,On Time,0
+SH02693,Delayed,6
+SH02694,On Time,1
+SH02695,On Time,2
+SH02696,Delayed,7
+SH02697,Delayed,4
+SH02698,Delayed,7
+SH02699,On Time,1
+SH02700,On Time,1
+SH02701,Delayed,7
+SH02702,On Time,0
+SH02703,On Time,2
+SH02704,On Time,2
+SH02705,On Time,2
+SH02706,Delayed,4
+SH02707,Delayed,5
+SH02708,Delayed,7
+SH02709,Delayed,3
+SH02710,On Time,0
+SH02711,Delayed,5
+SH02712,Delayed,5
+SH02713,Delayed,4
+SH02714,On Time,2
+SH02715,Delayed,3
+SH02716,Delayed,7
+SH02717,On Time,0
+SH02718,Delayed,5
+SH02719,On Time,0
+SH02720,On Time,0
+SH02721,Delayed,5
+SH02722,On Time,1
+SH02723,Delayed,5
+SH02724,Delayed,5
+SH02725,Delayed,7
+SH02726,Delayed,7
+SH02727,Delayed,5
+SH02728,On Time,1
+SH02729,On Time,0
+SH02730,Delayed,3
+SH02731,Delayed,3
+SH02732,On Time,1
+SH02733,Delayed,3
+SH02734,On Time,1
+SH02735,Delayed,3
+SH02736,Delayed,6
+SH02737,Delayed,5
+SH02738,Delayed,4
+SH02739,Delayed,7
+SH02740,On Time,2
+SH02741,On Time,1
+SH02742,On Time,1
+SH02743,On Time,2
+SH02744,Delayed,4
+SH02745,Delayed,5
+SH02746,Delayed,6
+SH02747,On Time,0
+SH02748,Delayed,5
+SH02749,Delayed,5
+SH02750,Delayed,3
+SH02751,Delayed,4
+SH02752,Delayed,6
+SH02753,Delayed,6
+SH02754,Delayed,7
+SH02755,Delayed,5
+SH02756,Delayed,5
+SH02757,On Time,2
+SH02758,Delayed,6
+SH02759,On Time,2
+SH02760,Delayed,3
+SH02761,Delayed,7
+SH02762,Delayed,5
+SH02763,On Time,0
+SH02764,Delayed,6
+SH02765,On Time,1
+SH02766,Delayed,3
+SH02767,Delayed,5
+SH02768,Delayed,6
+SH02769,Delayed,3
+SH02770,Delayed,6
+SH02771,Delayed,5
+SH02772,On Time,0
+SH02773,Delayed,6
+SH02774,On Time,0
+SH02775,On Time,1
+SH02776,Delayed,5
+SH02777,Delayed,7
+SH02778,Delayed,5
+SH02779,On Time,1
+SH02780,Delayed,5
+SH02781,Delayed,6
+SH02782,Delayed,6
+SH02783,Delayed,6
+SH02784,Delayed,5
+SH02785,On Time,2
+SH02786,Delayed,6
+SH02787,Delayed,4
+SH02788,On Time,2
+SH02789,On Time,2
+SH02790,On Time,0
+SH02791,Delayed,5
+SH02792,Delayed,6
+SH02793,Delayed,7
+SH02794,Delayed,7
+SH02795,Delayed,7
+SH02796,On Time,1
+SH02797,Delayed,6
+SH02798,Delayed,7
+SH02799,On Time,1
+SH02800,On Time,2
+SH02801,Delayed,7
+SH02802,Delayed,5
+SH02803,On Time,0
+SH02804,On Time,2
+SH02805,Delayed,4
+SH02806,Delayed,6
+SH02807,Delayed,5
+SH02808,On Time,1
+SH02809,Delayed,7
+SH02810,Delayed,7
+SH02811,Delayed,3
+SH02812,On Time,0
+SH02813,Delayed,7
+SH02814,Delayed,6
+SH02815,On Time,2
+SH02816,Delayed,7
+SH02817,Delayed,3
+SH02818,Delayed,6
+SH02819,Delayed,7
+SH02820,Delayed,3
+SH02821,Delayed,5
+SH02822,On Time,0
+SH02823,Delayed,4
+SH02824,Delayed,7
+SH02825,Delayed,3
+SH02826,Delayed,7
+SH02827,On Time,1
+SH02828,On Time,2
+SH02829,Delayed,7
+SH02830,Delayed,3
+SH02831,Delayed,5
+SH02832,On Time,2
+SH02833,On Time,0
+SH02834,Delayed,3
+SH02835,Delayed,5
+SH02836,On Time,0
+SH02837,On Time,1
+SH02838,Delayed,6
+SH02839,Delayed,6
+SH02840,Delayed,5
+SH02841,Delayed,4
+SH02842,Delayed,6
+SH02843,On Time,1
+SH02844,On Time,1
+SH02845,On Time,2
+SH02846,Delayed,3
+SH02847,Delayed,4
+SH02848,Delayed,4
+SH02849,Delayed,5
+SH02850,Delayed,5
+SH02851,Delayed,5
+SH02852,Delayed,4
+SH02853,Delayed,5
+SH02854,Delayed,7
+SH02855,On Time,2
+SH02856,Delayed,7
+SH02857,Delayed,5
+SH02858,Delayed,4
+SH02859,Delayed,5
+SH02860,Delayed,3
+SH02861,Delayed,4
+SH02862,On Time,1
+SH02863,On Time,1
+SH02864,Delayed,4
+SH02865,Delayed,6
+SH02866,Delayed,5
+SH02867,On Time,0
+SH02868,Delayed,3
+SH02869,Delayed,4
+SH02870,Delayed,3
+SH02871,Delayed,3
+SH02872,On Time,1
+SH02873,On Time,0
+SH02874,Delayed,3
+SH02875,Delayed,7
+SH02876,On Time,1
+SH02877,On Time,1
+SH02878,On Time,0
+SH02879,On Time,1
+SH02880,Delayed,6
+SH02881,Delayed,5
+SH02882,On Time,0
+SH02883,Delayed,4
+SH02884,Delayed,6
+SH02885,Delayed,4
+SH02886,Delayed,5
+SH02887,Delayed,3
+SH02888,On Time,1
+SH02889,On Time,0
+SH02890,Delayed,7
+SH02891,On Time,0
+SH02892,On Time,0
+SH02893,On Time,1
+SH02894,Delayed,4
+SH02895,Delayed,5
+SH02896,On Time,1
+SH02897,Delayed,7
+SH02898,Delayed,6
+SH02899,On Time,0
+SH02900,On Time,2
+SH02901,Delayed,3
+SH02902,Delayed,5
+SH02903,On Time,0
+SH02904,On Time,2
+SH02905,Delayed,5
+SH02906,On Time,1
+SH02907,On Time,2
+SH02908,Delayed,3
+SH02909,On Time,2
+SH02910,Delayed,7
+SH02911,On Time,1
+SH02912,On Time,1
+SH02913,Delayed,6
+SH02914,On Time,1
+SH02915,On Time,2
+SH02916,On Time,0
+SH02917,On Time,0
+SH02918,Delayed,5
+SH02919,On Time,2
+SH02920,Delayed,5
+SH02921,Delayed,7
+SH02922,On Time,2
+SH02923,Delayed,6
+SH02924,Delayed,3
+SH02925,On Time,0
+SH02926,Delayed,3
+SH02927,Delayed,4
+SH02928,Delayed,6
+SH02929,Delayed,5
+SH02930,Delayed,4
+SH02931,On Time,2
+SH02932,Delayed,4
+SH02933,Delayed,4
+SH02934,Delayed,5
+SH02935,Delayed,4
+SH02936,Delayed,5
+SH02937,On Time,0
+SH02938,Delayed,4
+SH02939,Delayed,4
+SH02940,Delayed,6
+SH02941,Delayed,6
+SH02942,Delayed,4
+SH02943,Delayed,3
+SH02944,On Time,1
+SH02945,On Time,0
+SH02946,On Time,1
+SH02947,On Time,0
+SH02948,Delayed,6
+SH02949,Delayed,3
+SH02950,Delayed,6
+SH02951,Delayed,6
+SH02952,Delayed,7
+SH02953,Delayed,3
+SH02954,Delayed,7
+SH02955,On Time,0
+SH02956,Delayed,4
+SH02957,On Time,0
+SH02958,Delayed,4
+SH02959,Delayed,4
+SH02960,Delayed,4
+SH02961,Delayed,7
+SH02962,Delayed,6
+SH02963,On Time,0
+SH02964,Delayed,7
+SH02965,Delayed,4
+SH02966,Delayed,7
+SH02967,Delayed,7
+SH02968,Delayed,3
+SH02969,Delayed,4
+SH02970,Delayed,4
+SH02971,On Time,2
+SH02972,Delayed,4
+SH02973,On Time,2
+SH02974,Delayed,7
+SH02975,Delayed,7
+SH02976,On Time,0
+SH02977,On Time,0
+SH02978,Delayed,3
+SH02979,On Time,1
+SH02980,Delayed,3
+SH02981,Delayed,4
+SH02982,Delayed,6
+SH02983,On Time,2
+SH02984,Delayed,4
+SH02985,Delayed,7
+SH02986,Delayed,4
+SH02987,On Time,1
+SH02988,Delayed,7
+SH02989,Delayed,6
+SH02990,Delayed,7
+SH02991,Delayed,5
+SH02992,On Time,0
+SH02993,On Time,1
+SH02994,Delayed,6
+SH02995,Delayed,4
+SH02996,On Time,0
+SH02997,Delayed,6
+SH02998,On Time,0
+SH02999,On Time,2
+SH03000,Delayed,5
+SH03001,Delayed,6
+SH03002,On Time,1
+SH03003,On Time,2
+SH03004,On Time,1
+SH03005,Delayed,5
+SH03006,On Time,1
+SH03007,Delayed,6
+SH03008,Delayed,3
+SH03009,Delayed,3
+SH03010,Delayed,5
+SH03011,On Time,2
+SH03012,On Time,0
+SH03013,Delayed,3
+SH03014,Delayed,5
+SH03015,Delayed,3
+SH03016,Delayed,5
+SH03017,Delayed,7
+SH03018,Delayed,3
+SH03019,Delayed,7
+SH03020,On Time,2
+SH03021,On Time,0
+SH03022,On Time,2
+SH03023,On Time,2
+SH03024,Delayed,5
+SH03025,Delayed,7
+SH03026,Delayed,3
+SH03027,On Time,2
+SH03028,On Time,0
+SH03029,On Time,1
+SH03030,On Time,2
+SH03031,On Time,2
+SH03032,Delayed,6
+SH03033,On Time,2
+SH03034,Delayed,4
+SH03035,Delayed,4
+SH03036,On Time,1
+SH03037,Delayed,6
+SH03038,Delayed,3
+SH03039,On Time,1
+SH03040,Delayed,5
+SH03041,On Time,0
+SH03042,On Time,0
+SH03043,On Time,2
+SH03044,Delayed,7
+SH03045,Delayed,4
+SH03046,Delayed,6
+SH03047,On Time,1
+SH03048,Delayed,4
+SH03049,On Time,1
+SH03050,On Time,1
+SH03051,Delayed,5
+SH03052,Delayed,5
+SH03053,On Time,0
+SH03054,Delayed,7
+SH03055,Delayed,6
+SH03056,Delayed,5
+SH03057,On Time,2
+SH03058,Delayed,6
+SH03059,On Time,1
+SH03060,On Time,2
+SH03061,Delayed,4
+SH03062,Delayed,3
+SH03063,On Time,2
+SH03064,Delayed,6
+SH03065,Delayed,4
+SH03066,On Time,0
+SH03067,Delayed,7
+SH03068,Delayed,5
+SH03069,Delayed,5
+SH03070,Delayed,7
+SH03071,On Time,2
+SH03072,On Time,0
+SH03073,On Time,1
+SH03074,Delayed,6
+SH03075,Delayed,7
+SH03076,Delayed,6
+SH03077,Delayed,3
+SH03078,Delayed,7
+SH03079,Delayed,6
+SH03080,On Time,1
+SH03081,Delayed,3
+SH03082,Delayed,4
+SH03083,On Time,1
+SH03084,On Time,0
+SH03085,Delayed,7
+SH03086,Delayed,5
+SH03087,Delayed,4
+SH03088,Delayed,7
+SH03089,Delayed,7
+SH03090,Delayed,5
+SH03091,On Time,0
+SH03092,Delayed,7
+SH03093,Delayed,3
+SH03094,On Time,0
+SH03095,Delayed,5
+SH03096,Delayed,6
+SH03097,Delayed,4
+SH03098,Delayed,4
+SH03099,On Time,0
+SH03100,Delayed,4
+SH03101,Delayed,6
+SH03102,Delayed,3
+SH03103,Delayed,7
+SH03104,On Time,1
+SH03105,Delayed,7
+SH03106,On Time,1
+SH03107,Delayed,4
+SH03108,Delayed,5
+SH03109,Delayed,4
+SH03110,On Time,1
+SH03111,On Time,1
+SH03112,On Time,0
+SH03113,Delayed,5
+SH03114,Delayed,4
+SH03115,Delayed,6
+SH03116,On Time,1
+SH03117,Delayed,5
+SH03118,Delayed,6
+SH03119,Delayed,5
+SH03120,Delayed,5
+SH03121,Delayed,4
+SH03122,Delayed,3
+SH03123,Delayed,3
+SH03124,Delayed,6
+SH03125,Delayed,5
+SH03126,On Time,0
+SH03127,Delayed,4
+SH03128,On Time,1
+SH03129,On Time,0
+SH03130,Delayed,7
+SH03131,Delayed,4
+SH03132,Delayed,6
+SH03133,Delayed,6
+SH03134,Delayed,3
+SH03135,Delayed,5
+SH03136,Delayed,5
+SH03137,On Time,1
+SH03138,Delayed,7
+SH03139,Delayed,7
+SH03140,Delayed,7
+SH03141,Delayed,4
+SH03142,Delayed,5
+SH03143,Delayed,7
+SH03144,Delayed,6
+SH03145,Delayed,7
+SH03146,On Time,2
+SH03147,On Time,0
+SH03148,Delayed,7
+SH03149,On Time,0
+SH03150,Delayed,3
+SH03151,On Time,0
+SH03152,Delayed,6
+SH03153,On Time,0
+SH03154,Delayed,4
+SH03155,On Time,2
+SH03156,Delayed,3
+SH03157,Delayed,6
+SH03158,Delayed,7
+SH03159,On Time,0
+SH03160,Delayed,5
+SH03161,Delayed,6
+SH03162,Delayed,5
+SH03163,Delayed,4
+SH03164,On Time,1
+SH03165,Delayed,3
+SH03166,Delayed,5
+SH03167,On Time,0
+SH03168,Delayed,3
+SH03169,Delayed,5
+SH03170,Delayed,7
+SH03171,On Time,0
+SH03172,Delayed,3
+SH03173,On Time,2
+SH03174,Delayed,4
+SH03175,Delayed,3
+SH03176,Delayed,4
+SH03177,On Time,1
+SH03178,On Time,0
+SH03179,Delayed,3
+SH03180,Delayed,4
+SH03181,Delayed,4
+SH03182,Delayed,7
+SH03183,Delayed,5
+SH03184,On Time,0
+SH03185,Delayed,3
+SH03186,On Time,1
+SH03187,On Time,0
+SH03188,Delayed,4
+SH03189,On Time,1
+SH03190,Delayed,4
+SH03191,On Time,2
+SH03192,Delayed,6
+SH03193,On Time,1
+SH03194,Delayed,7
+SH03195,On Time,2
+SH03196,On Time,0
+SH03197,On Time,0
+SH03198,Delayed,4
+SH03199,On Time,0
+SH03200,Delayed,6
+SH03201,On Time,0
+SH03202,Delayed,5
+SH03203,Delayed,6
+SH03204,Delayed,4
+SH03205,On Time,1
+SH03206,On Time,0
+SH03207,On Time,1
+SH03208,Delayed,7
+SH03209,Delayed,3
+SH03210,Delayed,6
+SH03211,Delayed,7
+SH03212,Delayed,7
+SH03213,Delayed,4
+SH03214,On Time,2
+SH03215,On Time,1
+SH03216,Delayed,5
+SH03217,On Time,2
+SH03218,Delayed,3
+SH03219,Delayed,4
+SH03220,On Time,2
+SH03221,Delayed,3
+SH03222,On Time,2
+SH03223,Delayed,7
+SH03224,On Time,1
+SH03225,Delayed,5
+SH03226,Delayed,6
+SH03227,On Time,2
+SH03228,Delayed,6
+SH03229,Delayed,7
+SH03230,On Time,2
+SH03231,Delayed,4
+SH03232,On Time,0
+SH03233,Delayed,3
+SH03234,Delayed,7
+SH03235,On Time,2
+SH03236,Delayed,4
+SH03237,Delayed,7
+SH03238,On Time,0
+SH03239,Delayed,3
+SH03240,Delayed,4
+SH03241,Delayed,7
+SH03242,On Time,2
+SH03243,Delayed,5
+SH03244,Delayed,7
+SH03245,On Time,2
+SH03246,Delayed,4
+SH03247,Delayed,4
+SH03248,Delayed,4
+SH03249,Delayed,7
+SH03250,Delayed,7
+SH03251,Delayed,4
+SH03252,Delayed,5
+SH03253,Delayed,7
+SH03254,Delayed,4
+SH03255,On Time,0
+SH03256,Delayed,4
+SH03257,Delayed,3
+SH03258,Delayed,7
+SH03259,Delayed,3
+SH03260,On Time,1
+SH03261,Delayed,5
+SH03262,On Time,2
+SH03263,On Time,1
+SH03264,Delayed,6
+SH03265,On Time,1
+SH03266,On Time,1
+SH03267,Delayed,7
+SH03268,Delayed,7
+SH03269,On Time,0
+SH03270,On Time,2
+SH03271,Delayed,7
+SH03272,Delayed,7
+SH03273,On Time,1
+SH03274,Delayed,6
+SH03275,Delayed,5
+SH03276,Delayed,4
+SH03277,On Time,1
+SH03278,Delayed,7
+SH03279,Delayed,4
+SH03280,Delayed,3
+SH03281,On Time,0
+SH03282,Delayed,3
+SH03283,Delayed,6
+SH03284,Delayed,4
+SH03285,Delayed,7
+SH03286,Delayed,7
+SH03287,Delayed,6
+SH03288,On Time,0
+SH03289,Delayed,5
+SH03290,Delayed,4
+SH03291,Delayed,6
+SH03292,Delayed,4
+SH03293,On Time,0
+SH03294,Delayed,5
+SH03295,Delayed,6
+SH03296,Delayed,3
+SH03297,Delayed,5
+SH03298,On Time,1
+SH03299,On Time,0
+SH03300,Delayed,7
+SH03301,Delayed,5
+SH03302,Delayed,6
+SH03303,Delayed,4
+SH03304,On Time,0
+SH03305,On Time,2
+SH03306,Delayed,4
+SH03307,Delayed,5
+SH03308,Delayed,5
+SH03309,On Time,2
+SH03310,On Time,0
+SH03311,On Time,0
+SH03312,On Time,2
+SH03313,Delayed,6
+SH03314,Delayed,7
+SH03315,On Time,2
+SH03316,Delayed,3
+SH03317,On Time,0
+SH03318,Delayed,7
+SH03319,On Time,1
+SH03320,Delayed,5
+SH03321,Delayed,4
+SH03322,Delayed,4
+SH03323,On Time,2
+SH03324,Delayed,4
+SH03325,On Time,2
+SH03326,On Time,1
+SH03327,Delayed,5
+SH03328,Delayed,7
+SH03329,On Time,0
+SH03330,Delayed,4
+SH03331,On Time,0
+SH03332,Delayed,5
+SH03333,Delayed,4
+SH03334,Delayed,5
+SH03335,On Time,0
+SH03336,On Time,0
+SH03337,On Time,0
+SH03338,Delayed,6
+SH03339,Delayed,6
+SH03340,Delayed,5
+SH03341,Delayed,4
+SH03342,On Time,2
+SH03343,Delayed,4
+SH03344,Delayed,3
+SH03345,Delayed,6
+SH03346,Delayed,5
+SH03347,Delayed,3
+SH03348,On Time,1
+SH03349,On Time,2
+SH03350,On Time,0
+SH03351,Delayed,6
+SH03352,Delayed,7
+SH03353,Delayed,6
+SH03354,On Time,1
+SH03355,On Time,1
+SH03356,Delayed,7
+SH03357,Delayed,4
+SH03358,On Time,2
+SH03359,Delayed,4
+SH03360,Delayed,3
+SH03361,On Time,1
+SH03362,Delayed,3
+SH03363,On Time,2
+SH03364,Delayed,3
+SH03365,Delayed,5
+SH03366,On Time,2
+SH03367,Delayed,6
+SH03368,Delayed,4
+SH03369,Delayed,7
+SH03370,Delayed,7
+SH03371,On Time,0
+SH03372,On Time,1
+SH03373,On Time,0
+SH03374,Delayed,7
+SH03375,Delayed,4
+SH03376,Delayed,4
+SH03377,Delayed,4
+SH03378,On Time,0
+SH03379,Delayed,5
+SH03380,Delayed,7
+SH03381,Delayed,3
+SH03382,On Time,2
+SH03383,On Time,1
+SH03384,Delayed,7
+SH03385,Delayed,5
+SH03386,Delayed,5
+SH03387,On Time,0
+SH03388,On Time,1
+SH03389,On Time,2
+SH03390,On Time,0
+SH03391,On Time,2
+SH03392,On Time,0
+SH03393,Delayed,6
+SH03394,Delayed,6
+SH03395,On Time,1
+SH03396,Delayed,6
+SH03397,On Time,1
+SH03398,On Time,2
+SH03399,On Time,1
+SH03400,Delayed,5
+SH03401,On Time,1
+SH03402,On Time,2
+SH03403,Delayed,6
+SH03404,Delayed,4
+SH03405,Delayed,3
+SH03406,Delayed,7
+SH03407,Delayed,5
+SH03408,Delayed,7
+SH03409,Delayed,3
+SH03410,Delayed,5
+SH03411,Delayed,3
+SH03412,Delayed,7
+SH03413,On Time,2
+SH03414,Delayed,6
+SH03415,Delayed,5
+SH03416,Delayed,7
+SH03417,Delayed,5
+SH03418,Delayed,3
+SH03419,Delayed,6
+SH03420,On Time,0
+SH03421,Delayed,5
+SH03422,Delayed,7
+SH03423,Delayed,5
+SH03424,Delayed,5
+SH03425,Delayed,6
+SH03426,Delayed,3
+SH03427,Delayed,4
+SH03428,On Time,1
+SH03429,Delayed,3
+SH03430,On Time,0
+SH03431,On Time,0
+SH03432,Delayed,4
+SH03433,Delayed,4
+SH03434,Delayed,7
+SH03435,Delayed,3
+SH03436,Delayed,3
+SH03437,On Time,2
+SH03438,Delayed,4
+SH03439,Delayed,7
+SH03440,On Time,1
+SH03441,Delayed,3
+SH03442,On Time,1
+SH03443,Delayed,7
+SH03444,Delayed,7
+SH03445,Delayed,5
+SH03446,Delayed,7
+SH03447,Delayed,3
+SH03448,On Time,1
+SH03449,Delayed,7
+SH03450,Delayed,5
+SH03451,On Time,0
+SH03452,Delayed,3
+SH03453,Delayed,6
+SH03454,Delayed,5
+SH03455,Delayed,5
+SH03456,Delayed,5
+SH03457,On Time,1
+SH03458,On Time,2
+SH03459,Delayed,6
+SH03460,Delayed,7
+SH03461,Delayed,4
+SH03462,Delayed,5
+SH03463,Delayed,6
+SH03464,Delayed,6
+SH03465,On Time,0
+SH03466,Delayed,7
+SH03467,Delayed,4
+SH03468,Delayed,6
+SH03469,Delayed,6
+SH03470,Delayed,7
+SH03471,Delayed,4
+SH03472,Delayed,6
+SH03473,Delayed,5
+SH03474,On Time,2
+SH03475,Delayed,7
+SH03476,Delayed,5
+SH03477,Delayed,4
+SH03478,Delayed,5
+SH03479,On Time,2
+SH03480,On Time,2
+SH03481,Delayed,7
+SH03482,On Time,1
+SH03483,Delayed,4
+SH03484,On Time,1
+SH03485,Delayed,3
+SH03486,On Time,0
+SH03487,On Time,0
+SH03488,Delayed,4
+SH03489,Delayed,3
+SH03490,On Time,2
+SH03491,Delayed,6
+SH03492,On Time,1
+SH03493,Delayed,5
+SH03494,On Time,2
+SH03495,Delayed,5
+SH03496,On Time,0
+SH03497,Delayed,6
+SH03498,On Time,1
+SH03499,Delayed,6
+SH03500,Delayed,3
+SH03501,Delayed,5
+SH03502,Delayed,4
+SH03503,Delayed,3
+SH03504,On Time,0
+SH03505,On Time,0
+SH03506,On Time,0
+SH03507,On Time,0
+SH03508,Delayed,5
+SH03509,On Time,0
+SH03510,Delayed,3
+SH03511,On Time,1
+SH03512,Delayed,5
+SH03513,Delayed,3
+SH03514,Delayed,4
+SH03515,Delayed,4
+SH03516,Delayed,5
+SH03517,On Time,1
+SH03518,On Time,1
+SH03519,On Time,0
+SH03520,Delayed,7
+SH03521,Delayed,5
+SH03522,On Time,0
+SH03523,Delayed,7
+SH03524,Delayed,4
+SH03525,Delayed,4
+SH03526,On Time,0
+SH03527,Delayed,6
+SH03528,Delayed,3
+SH03529,On Time,1
+SH03530,On Time,0
+SH03531,On Time,0
+SH03532,On Time,1
+SH03533,On Time,0
+SH03534,On Time,0
+SH03535,Delayed,6
+SH03536,On Time,0
+SH03537,Delayed,7
+SH03538,Delayed,3
+SH03539,Delayed,7
+SH03540,Delayed,3
+SH03541,On Time,0
+SH03542,Delayed,5
+SH03543,Delayed,5
+SH03544,On Time,0
+SH03545,Delayed,3
+SH03546,On Time,0
+SH03547,Delayed,7
+SH03548,On Time,0
+SH03549,Delayed,7
+SH03550,Delayed,3
+SH03551,Delayed,3
+SH03552,Delayed,6
+SH03553,Delayed,5
+SH03554,On Time,2
+SH03555,Delayed,5
+SH03556,Delayed,3
+SH03557,Delayed,7
+SH03558,Delayed,6
+SH03559,Delayed,7
+SH03560,Delayed,4
+SH03561,On Time,2
+SH03562,On Time,2
+SH03563,Delayed,6
+SH03564,On Time,0
+SH03565,On Time,1
+SH03566,Delayed,7
+SH03567,On Time,1
+SH03568,Delayed,5
+SH03569,Delayed,5
+SH03570,On Time,2
+SH03571,Delayed,4
+SH03572,On Time,0
+SH03573,Delayed,5
+SH03574,Delayed,7
+SH03575,On Time,2
+SH03576,On Time,1
+SH03577,On Time,1
+SH03578,Delayed,3
+SH03579,On Time,2
+SH03580,On Time,1
+SH03581,Delayed,3
+SH03582,Delayed,7
+SH03583,Delayed,7
+SH03584,On Time,0
+SH03585,Delayed,7
+SH03586,On Time,2
+SH03587,On Time,1
+SH03588,On Time,1
+SH03589,Delayed,4
+SH03590,On Time,1
+SH03591,Delayed,3
+SH03592,Delayed,4
+SH03593,Delayed,6
+SH03594,On Time,2
+SH03595,Delayed,7
+SH03596,Delayed,4
+SH03597,On Time,1
+SH03598,Delayed,5
+SH03599,On Time,1
+SH03600,Delayed,5
+SH03601,On Time,1
+SH03602,On Time,0
+SH03603,Delayed,5
+SH03604,Delayed,7
+SH03605,On Time,1
+SH03606,Delayed,5
+SH03607,On Time,2
+SH03608,On Time,0
+SH03609,Delayed,6
+SH03610,Delayed,6
+SH03611,Delayed,6
+SH03612,Delayed,5
+SH03613,Delayed,6
+SH03614,Delayed,6
+SH03615,Delayed,6
+SH03616,Delayed,3
+SH03617,On Time,1
+SH03618,Delayed,6
+SH03619,Delayed,3
+SH03620,On Time,2
+SH03621,On Time,0
+SH03622,On Time,2
+SH03623,Delayed,5
+SH03624,Delayed,4
+SH03625,Delayed,6
+SH03626,Delayed,6
+SH03627,On Time,0
+SH03628,Delayed,5
+SH03629,Delayed,4
+SH03630,On Time,1
+SH03631,Delayed,7
+SH03632,Delayed,5
+SH03633,Delayed,7
+SH03634,Delayed,4
+SH03635,Delayed,7
+SH03636,Delayed,7
+SH03637,On Time,0
+SH03638,Delayed,3
+SH03639,Delayed,6
+SH03640,Delayed,5
+SH03641,Delayed,5
+SH03642,Delayed,6
+SH03643,Delayed,3
+SH03644,Delayed,4
+SH03645,Delayed,3
+SH03646,Delayed,6
+SH03647,Delayed,6
+SH03648,Delayed,4
+SH03649,On Time,1
+SH03650,Delayed,5
+SH03651,Delayed,4
+SH03652,Delayed,6
+SH03653,Delayed,4
+SH03654,Delayed,6
+SH03655,Delayed,5
+SH03656,Delayed,3
+SH03657,Delayed,7
+SH03658,On Time,0
+SH03659,On Time,0
+SH03660,Delayed,5
+SH03661,On Time,1
+SH03662,Delayed,3
+SH03663,On Time,2
+SH03664,On Time,1
+SH03665,On Time,2
+SH03666,On Time,0
+SH03667,On Time,0
+SH03668,On Time,0
+SH03669,Delayed,5
+SH03670,On Time,2
+SH03671,Delayed,6
+SH03672,Delayed,4
+SH03673,On Time,2
+SH03674,On Time,1
+SH03675,Delayed,5
+SH03676,On Time,0
+SH03677,Delayed,5
+SH03678,On Time,2
+SH03679,On Time,1
+SH03680,Delayed,3
+SH03681,Delayed,7
+SH03682,Delayed,4
+SH03683,On Time,2
+SH03684,On Time,0
+SH03685,On Time,2
+SH03686,Delayed,5
+SH03687,On Time,1
+SH03688,Delayed,7
+SH03689,Delayed,5
+SH03690,On Time,1
+SH03691,Delayed,7
+SH03692,On Time,1
+SH03693,Delayed,7
+SH03694,On Time,2
+SH03695,On Time,2
+SH03696,Delayed,7
+SH03697,Delayed,6
+SH03698,On Time,0
+SH03699,On Time,1
+SH03700,On Time,2
+SH03701,Delayed,4
+SH03702,Delayed,5
+SH03703,On Time,1
+SH03704,On Time,0
+SH03705,Delayed,4
+SH03706,Delayed,4
+SH03707,Delayed,7
+SH03708,On Time,0
+SH03709,Delayed,6
+SH03710,Delayed,3
+SH03711,Delayed,7
+SH03712,Delayed,5
+SH03713,On Time,1
+SH03714,Delayed,5
+SH03715,Delayed,6
+SH03716,Delayed,3
+SH03717,Delayed,3
+SH03718,On Time,2
+SH03719,Delayed,5
+SH03720,Delayed,5
+SH03721,Delayed,7
+SH03722,On Time,2
+SH03723,Delayed,4
+SH03724,On Time,2
+SH03725,Delayed,4
+SH03726,Delayed,6
+SH03727,Delayed,5
+SH03728,On Time,2
+SH03729,On Time,2
+SH03730,On Time,2
+SH03731,Delayed,7
+SH03732,Delayed,5
+SH03733,Delayed,5
+SH03734,Delayed,7
+SH03735,Delayed,4
+SH03736,Delayed,6
+SH03737,Delayed,3
+SH03738,Delayed,3
+SH03739,On Time,0
+SH03740,Delayed,4
+SH03741,On Time,1
+SH03742,On Time,0
+SH03743,On Time,0
+SH03744,Delayed,3
+SH03745,Delayed,7
+SH03746,Delayed,6
+SH03747,On Time,0
+SH03748,On Time,0
+SH03749,Delayed,4
+SH03750,On Time,0
+SH03751,Delayed,5
+SH03752,On Time,0
+SH03753,On Time,1
+SH03754,On Time,2
+SH03755,On Time,1
+SH03756,On Time,2
+SH03757,Delayed,6
+SH03758,Delayed,7
+SH03759,Delayed,6
+SH03760,On Time,0
+SH03761,On Time,2
+SH03762,On Time,2
+SH03763,On Time,2
+SH03764,On Time,1
+SH03765,On Time,1
+SH03766,On Time,1
+SH03767,Delayed,3
+SH03768,Delayed,3
+SH03769,Delayed,3
+SH03770,Delayed,4
+SH03771,On Time,0
+SH03772,Delayed,3
+SH03773,On Time,1
+SH03774,On Time,1
+SH03775,On Time,0
+SH03776,Delayed,3
+SH03777,On Time,1
+SH03778,Delayed,3
+SH03779,Delayed,6
+SH03780,On Time,2
+SH03781,Delayed,7
+SH03782,On Time,1
+SH03783,Delayed,3
+SH03784,On Time,0
+SH03785,On Time,0
+SH03786,Delayed,7
+SH03787,Delayed,3
+SH03788,Delayed,7
+SH03789,On Time,1
+SH03790,On Time,1
+SH03791,Delayed,4
+SH03792,On Time,1
+SH03793,Delayed,7
+SH03794,Delayed,4
+SH03795,Delayed,4
+SH03796,On Time,2
+SH03797,On Time,0
+SH03798,On Time,2
+SH03799,Delayed,5
+SH03800,Delayed,6
+SH03801,Delayed,4
+SH03802,On Time,0
+SH03803,On Time,2
+SH03804,Delayed,3
+SH03805,Delayed,5
+SH03806,Delayed,6
+SH03807,Delayed,6
+SH03808,On Time,0
+SH03809,Delayed,6
+SH03810,Delayed,5
+SH03811,On Time,2
+SH03812,On Time,2
+SH03813,Delayed,7
+SH03814,Delayed,6
+SH03815,On Time,2
+SH03816,Delayed,6
+SH03817,On Time,0
+SH03818,Delayed,6
+SH03819,Delayed,4
+SH03820,On Time,2
+SH03821,Delayed,3
+SH03822,On Time,1
+SH03823,Delayed,3
+SH03824,Delayed,5
+SH03825,On Time,2
+SH03826,Delayed,7
+SH03827,On Time,1
+SH03828,Delayed,5
+SH03829,Delayed,4
+SH03830,Delayed,7
+SH03831,Delayed,5
+SH03832,On Time,2
+SH03833,Delayed,5
+SH03834,Delayed,6
+SH03835,On Time,2
+SH03836,Delayed,4
+SH03837,On Time,0
+SH03838,Delayed,3
+SH03839,Delayed,4
+SH03840,Delayed,7
+SH03841,On Time,2
+SH03842,Delayed,4
+SH03843,On Time,2
+SH03844,Delayed,5
+SH03845,Delayed,6
+SH03846,Delayed,5
+SH03847,Delayed,5
+SH03848,Delayed,4
+SH03849,Delayed,5
+SH03850,On Time,0
+SH03851,Delayed,7
+SH03852,On Time,1
+SH03853,Delayed,7
+SH03854,Delayed,3
+SH03855,Delayed,3
+SH03856,Delayed,4
+SH03857,Delayed,3
+SH03858,On Time,0
+SH03859,Delayed,7
+SH03860,On Time,0
+SH03861,Delayed,6
+SH03862,Delayed,7
+SH03863,Delayed,6
+SH03864,On Time,2
+SH03865,Delayed,5
+SH03866,On Time,2
+SH03867,On Time,0
+SH03868,Delayed,3
+SH03869,Delayed,3
+SH03870,On Time,0
+SH03871,Delayed,6
+SH03872,Delayed,5
+SH03873,Delayed,6
+SH03874,On Time,0
+SH03875,On Time,1
+SH03876,Delayed,4
+SH03877,Delayed,6
+SH03878,Delayed,5
+SH03879,Delayed,5
+SH03880,On Time,1
+SH03881,Delayed,7
+SH03882,On Time,1
+SH03883,Delayed,4
+SH03884,On Time,2
+SH03885,On Time,0
+SH03886,Delayed,3
+SH03887,Delayed,5
+SH03888,On Time,2
+SH03889,On Time,2
+SH03890,Delayed,6
+SH03891,Delayed,3
+SH03892,On Time,1
+SH03893,On Time,1
+SH03894,Delayed,3
+SH03895,Delayed,5
+SH03896,Delayed,7
+SH03897,Delayed,5
+SH03898,Delayed,5
+SH03899,Delayed,6
+SH03900,On Time,1
+SH03901,Delayed,6
+SH03902,Delayed,4
+SH03903,Delayed,4
+SH03904,Delayed,3
+SH03905,Delayed,7
+SH03906,On Time,2
+SH03907,Delayed,7
+SH03908,On Time,2
+SH03909,Delayed,6
+SH03910,On Time,0
+SH03911,Delayed,6
+SH03912,On Time,2
+SH03913,On Time,1
+SH03914,On Time,2
+SH03915,Delayed,4
+SH03916,On Time,2
+SH03917,Delayed,5
+SH03918,Delayed,7
+SH03919,Delayed,6
+SH03920,Delayed,3
+SH03921,On Time,1
+SH03922,Delayed,7
+SH03923,On Time,0
+SH03924,Delayed,3
+SH03925,Delayed,5
+SH03926,Delayed,5
+SH03927,Delayed,5
+SH03928,Delayed,7
+SH03929,Delayed,4
+SH03930,Delayed,4
+SH03931,Delayed,3
+SH03932,Delayed,7
+SH03933,On Time,0
+SH03934,On Time,0
+SH03935,Delayed,7
+SH03936,On Time,2
+SH03937,Delayed,3
+SH03938,On Time,0
+SH03939,Delayed,7
+SH03940,On Time,0
+SH03941,On Time,1
+SH03942,On Time,1
+SH03943,Delayed,6
+SH03944,Delayed,7
+SH03945,Delayed,6
+SH03946,Delayed,5
+SH03947,Delayed,3
+SH03948,Delayed,7
+SH03949,Delayed,6
+SH03950,On Time,0
+SH03951,On Time,0
+SH03952,Delayed,7
+SH03953,On Time,2
+SH03954,Delayed,4
+SH03955,Delayed,5
+SH03956,On Time,0
+SH03957,On Time,0
+SH03958,On Time,0
+SH03959,Delayed,7
+SH03960,Delayed,5
+SH03961,On Time,0
+SH03962,Delayed,6
+SH03963,Delayed,7
+SH03964,On Time,0
+SH03965,Delayed,6
+SH03966,On Time,1
+SH03967,Delayed,3
+SH03968,Delayed,6
+SH03969,On Time,1
+SH03970,On Time,2
+SH03971,Delayed,3
+SH03972,On Time,1
+SH03973,Delayed,6
+SH03974,On Time,1
+SH03975,On Time,1
+SH03976,On Time,1
+SH03977,Delayed,6
+SH03978,On Time,1
+SH03979,On Time,2
+SH03980,On Time,1
+SH03981,On Time,2
+SH03982,Delayed,6
+SH03983,Delayed,4
+SH03984,On Time,0
+SH03985,Delayed,3
+SH03986,On Time,2
+SH03987,Delayed,6
+SH03988,Delayed,7
+SH03989,Delayed,7
+SH03990,Delayed,3
+SH03991,Delayed,6
+SH03992,Delayed,7
+SH03993,Delayed,7
+SH03994,On Time,2
+SH03995,Delayed,6
+SH03996,On Time,0
+SH03997,Delayed,5
+SH03998,Delayed,5
+SH03999,On Time,0
+SH04000,Delayed,6
+SH04001,Delayed,7
+SH04002,On Time,2
+SH04003,Delayed,7
+SH04004,Delayed,5
+SH04005,On Time,0
+SH04006,Delayed,7
+SH04007,On Time,2
+SH04008,Delayed,4
+SH04009,On Time,1
+SH04010,Delayed,5
+SH04011,Delayed,6
+SH04012,On Time,1
+SH04013,Delayed,3
+SH04014,Delayed,6
+SH04015,Delayed,3
+SH04016,Delayed,6
+SH04017,On Time,1
+SH04018,On Time,0
+SH04019,On Time,1
+SH04020,Delayed,3
+SH04021,On Time,0
+SH04022,On Time,1
+SH04023,On Time,2
+SH04024,Delayed,4
+SH04025,Delayed,7
+SH04026,On Time,0
+SH04027,On Time,1
+SH04028,On Time,1
+SH04029,Delayed,7
+SH04030,Delayed,4
+SH04031,Delayed,4
+SH04032,On Time,1
+SH04033,Delayed,5
+SH04034,On Time,0
+SH04035,Delayed,6
+SH04036,On Time,0
+SH04037,On Time,1
+SH04038,On Time,0
+SH04039,On Time,2
+SH04040,Delayed,3
+SH04041,Delayed,3
+SH04042,On Time,2
+SH04043,On Time,2
+SH04044,Delayed,7
+SH04045,On Time,0
+SH04046,Delayed,3
+SH04047,Delayed,4
+SH04048,On Time,2
+SH04049,Delayed,6
+SH04050,Delayed,3
+SH04051,Delayed,6
+SH04052,On Time,1
+SH04053,Delayed,3
+SH04054,Delayed,4
+SH04055,Delayed,6
+SH04056,Delayed,4
+SH04057,Delayed,3
+SH04058,On Time,1
+SH04059,Delayed,4
+SH04060,On Time,0
+SH04061,On Time,1
+SH04062,On Time,2
+SH04063,On Time,0
+SH04064,On Time,2
+SH04065,Delayed,4
+SH04066,On Time,2
+SH04067,Delayed,6
+SH04068,Delayed,6
+SH04069,On Time,0
+SH04070,On Time,1
+SH04071,On Time,0
+SH04072,Delayed,4
+SH04073,Delayed,3
+SH04074,Delayed,3
+SH04075,Delayed,7
+SH04076,Delayed,3
+SH04077,Delayed,7
+SH04078,On Time,1
+SH04079,On Time,1
+SH04080,Delayed,7
+SH04081,On Time,2
+SH04082,Delayed,6
+SH04083,Delayed,4
+SH04084,Delayed,7
+SH04085,On Time,1
+SH04086,On Time,1
+SH04087,On Time,0
+SH04088,On Time,0
+SH04089,Delayed,7
+SH04090,Delayed,7
+SH04091,On Time,2
+SH04092,On Time,1
+SH04093,Delayed,5
+SH04094,Delayed,7
+SH04095,Delayed,5
+SH04096,On Time,0
+SH04097,Delayed,3
+SH04098,Delayed,4
+SH04099,Delayed,5
+SH04100,On Time,0
+SH04101,Delayed,7
+SH04102,Delayed,4
+SH04103,Delayed,5
+SH04104,On Time,2
+SH04105,On Time,0
+SH04106,On Time,2
+SH04107,On Time,2
+SH04108,On Time,2
+SH04109,Delayed,3
+SH04110,Delayed,7
+SH04111,Delayed,6
+SH04112,Delayed,7
+SH04113,Delayed,5
+SH04114,On Time,1
+SH04115,On Time,0
+SH04116,On Time,1
+SH04117,On Time,0
+SH04118,Delayed,4
+SH04119,On Time,0
+SH04120,Delayed,4
+SH04121,On Time,1
+SH04122,Delayed,6
+SH04123,Delayed,3
+SH04124,Delayed,7
+SH04125,Delayed,3
+SH04126,Delayed,6
+SH04127,On Time,1
+SH04128,Delayed,6
+SH04129,On Time,0
+SH04130,Delayed,3
+SH04131,Delayed,5
+SH04132,Delayed,5
+SH04133,Delayed,4
+SH04134,On Time,0
+SH04135,Delayed,4
+SH04136,On Time,0
+SH04137,Delayed,6
+SH04138,Delayed,7
+SH04139,On Time,2
+SH04140,Delayed,7
+SH04141,Delayed,4
+SH04142,Delayed,5
+SH04143,Delayed,5
+SH04144,Delayed,4
+SH04145,On Time,1
+SH04146,Delayed,3
+SH04147,Delayed,6
+SH04148,On Time,2
+SH04149,Delayed,3
+SH04150,Delayed,4
+SH04151,Delayed,3
+SH04152,On Time,2
+SH04153,Delayed,6
+SH04154,On Time,0
+SH04155,Delayed,3
+SH04156,Delayed,4
+SH04157,Delayed,4
+SH04158,On Time,1
+SH04159,Delayed,7
+SH04160,On Time,2
+SH04161,Delayed,3
+SH04162,On Time,1
+SH04163,Delayed,4
+SH04164,On Time,2
+SH04165,Delayed,6
+SH04166,Delayed,5
+SH04167,Delayed,6
+SH04168,On Time,0
+SH04169,Delayed,6
+SH04170,Delayed,6
+SH04171,Delayed,4
+SH04172,On Time,1
+SH04173,On Time,0
+SH04174,Delayed,3
+SH04175,Delayed,7
+SH04176,Delayed,5
+SH04177,On Time,0
+SH04178,On Time,1
+SH04179,Delayed,5
+SH04180,Delayed,4
+SH04181,On Time,2
+SH04182,On Time,2
+SH04183,Delayed,3
+SH04184,Delayed,3
+SH04185,Delayed,7
+SH04186,Delayed,5
+SH04187,On Time,2
+SH04188,On Time,1
+SH04189,On Time,1
+SH04190,Delayed,4
+SH04191,On Time,2
+SH04192,On Time,2
+SH04193,Delayed,6
+SH04194,On Time,0
+SH04195,Delayed,3
+SH04196,Delayed,7
+SH04197,On Time,0
+SH04198,On Time,2
+SH04199,Delayed,6
+SH04200,Delayed,7
+SH04201,On Time,2
+SH04202,On Time,0
+SH04203,On Time,2
+SH04204,Delayed,7
+SH04205,Delayed,3
+SH04206,Delayed,3
+SH04207,Delayed,5
+SH04208,Delayed,7
+SH04209,Delayed,3
+SH04210,Delayed,3
+SH04211,Delayed,6
+SH04212,Delayed,5
+SH04213,Delayed,7
+SH04214,Delayed,5
+SH04215,Delayed,5
+SH04216,On Time,0
+SH04217,Delayed,6
+SH04218,Delayed,4
+SH04219,Delayed,7
+SH04220,Delayed,7
+SH04221,On Time,0
+SH04222,On Time,1
+SH04223,Delayed,6
+SH04224,On Time,1
+SH04225,Delayed,3
+SH04226,Delayed,6
+SH04227,Delayed,3
+SH04228,On Time,2
+SH04229,On Time,0
+SH04230,Delayed,4
+SH04231,On Time,2
+SH04232,On Time,1
+SH04233,Delayed,6
+SH04234,On Time,0
+SH04235,Delayed,4
+SH04236,Delayed,7
+SH04237,Delayed,7
+SH04238,Delayed,5
+SH04239,On Time,1
+SH04240,On Time,2
+SH04241,Delayed,3
+SH04242,On Time,1
+SH04243,Delayed,6
+SH04244,Delayed,7
+SH04245,Delayed,7
+SH04246,Delayed,3
+SH04247,Delayed,4
+SH04248,On Time,2
+SH04249,On Time,2
+SH04250,Delayed,4
+SH04251,Delayed,6
+SH04252,On Time,2
+SH04253,Delayed,3
+SH04254,Delayed,7
+SH04255,Delayed,4
+SH04256,On Time,1
+SH04257,On Time,2
+SH04258,On Time,0
+SH04259,Delayed,7
+SH04260,On Time,1
+SH04261,On Time,0
+SH04262,Delayed,4
+SH04263,Delayed,6
+SH04264,Delayed,6
+SH04265,On Time,0
+SH04266,On Time,0
+SH04267,Delayed,6
+SH04268,On Time,1
+SH04269,On Time,0
+SH04270,Delayed,7
+SH04271,Delayed,7
+SH04272,Delayed,4
+SH04273,On Time,1
+SH04274,On Time,0
+SH04275,Delayed,6
+SH04276,On Time,2
+SH04277,Delayed,3
+SH04278,On Time,1
+SH04279,Delayed,7
+SH04280,On Time,2
+SH04281,On Time,2
+SH04282,Delayed,3
+SH04283,On Time,1
+SH04284,Delayed,4
+SH04285,Delayed,3
+SH04286,Delayed,3
+SH04287,Delayed,3
+SH04288,Delayed,6
+SH04289,On Time,1
+SH04290,Delayed,7
+SH04291,On Time,0
+SH04292,Delayed,4
+SH04293,On Time,1
+SH04294,Delayed,3
+SH04295,On Time,0
+SH04296,Delayed,4
+SH04297,On Time,0
+SH04298,On Time,0
+SH04299,On Time,2
+SH04300,Delayed,6
+SH04301,Delayed,7
+SH04302,On Time,0
+SH04303,Delayed,7
+SH04304,Delayed,4
+SH04305,Delayed,7
+SH04306,Delayed,5
+SH04307,Delayed,6
+SH04308,On Time,2
+SH04309,Delayed,4
+SH04310,Delayed,4
+SH04311,Delayed,4
+SH04312,Delayed,6
+SH04313,On Time,2
+SH04314,Delayed,3
+SH04315,On Time,2
+SH04316,Delayed,6
+SH04317,Delayed,6
+SH04318,On Time,0
+SH04319,Delayed,7
+SH04320,Delayed,6
+SH04321,Delayed,3
+SH04322,Delayed,5
+SH04323,Delayed,3
+SH04324,Delayed,6
+SH04325,On Time,2
+SH04326,On Time,1
+SH04327,Delayed,7
+SH04328,On Time,1
+SH04329,Delayed,5
+SH04330,Delayed,4
+SH04331,Delayed,3
+SH04332,Delayed,3
+SH04333,Delayed,5
+SH04334,Delayed,3
+SH04335,Delayed,7
+SH04336,Delayed,7
+SH04337,On Time,1
+SH04338,Delayed,5
+SH04339,Delayed,4
+SH04340,On Time,0
+SH04341,Delayed,6
+SH04342,Delayed,5
+SH04343,On Time,0
+SH04344,On Time,1
+SH04345,On Time,1
+SH04346,On Time,0
+SH04347,On Time,1
+SH04348,Delayed,7
+SH04349,On Time,2
+SH04350,On Time,0
+SH04351,Delayed,6
+SH04352,Delayed,5
+SH04353,Delayed,4
+SH04354,Delayed,6
+SH04355,On Time,2
+SH04356,Delayed,4
+SH04357,Delayed,4
+SH04358,Delayed,4
+SH04359,Delayed,5
+SH04360,Delayed,4
+SH04361,Delayed,3
+SH04362,Delayed,6
+SH04363,On Time,1
+SH04364,On Time,0
+SH04365,Delayed,5
+SH04366,Delayed,6
+SH04367,Delayed,6
+SH04368,Delayed,6
+SH04369,On Time,1
+SH04370,Delayed,4
+SH04371,Delayed,4
+SH04372,On Time,1
+SH04373,Delayed,6
+SH04374,Delayed,6
+SH04375,Delayed,3
+SH04376,On Time,1
+SH04377,Delayed,4
+SH04378,Delayed,3
+SH04379,On Time,0
+SH04380,Delayed,5
+SH04381,Delayed,4
+SH04382,Delayed,4
+SH04383,Delayed,4
+SH04384,On Time,1
+SH04385,Delayed,3
+SH04386,On Time,0
+SH04387,Delayed,7
+SH04388,Delayed,5
+SH04389,Delayed,4
+SH04390,Delayed,7
+SH04391,Delayed,4
+SH04392,Delayed,6
+SH04393,On Time,2
+SH04394,On Time,2
+SH04395,Delayed,4
+SH04396,Delayed,7
+SH04397,Delayed,4
+SH04398,Delayed,5
+SH04399,Delayed,4
+SH04400,On Time,2
+SH04401,On Time,0
+SH04402,On Time,0
+SH04403,Delayed,7
+SH04404,On Time,0
+SH04405,Delayed,6
+SH04406,On Time,0
+SH04407,Delayed,5
+SH04408,On Time,1
+SH04409,Delayed,5
+SH04410,On Time,1
+SH04411,On Time,0
+SH04412,Delayed,6
+SH04413,On Time,2
+SH04414,On Time,2
+SH04415,Delayed,7
+SH04416,Delayed,3
+SH04417,Delayed,4
+SH04418,Delayed,7
+SH04419,On Time,0
+SH04420,Delayed,3
+SH04421,Delayed,6
+SH04422,On Time,2
+SH04423,Delayed,7
+SH04424,Delayed,6
+SH04425,Delayed,3
+SH04426,On Time,2
+SH04427,Delayed,7
+SH04428,Delayed,3
+SH04429,Delayed,4
+SH04430,On Time,1
+SH04431,Delayed,7
+SH04432,On Time,2
+SH04433,Delayed,5
+SH04434,On Time,2
+SH04435,Delayed,7
+SH04436,Delayed,4
+SH04437,On Time,0
+SH04438,On Time,2
+SH04439,Delayed,7
+SH04440,Delayed,3
+SH04441,Delayed,7
+SH04442,On Time,2
+SH04443,On Time,0
+SH04444,Delayed,3
+SH04445,Delayed,6
+SH04446,Delayed,7
+SH04447,Delayed,5
+SH04448,Delayed,4
+SH04449,Delayed,6
+SH04450,Delayed,6
+SH04451,Delayed,4
+SH04452,Delayed,4
+SH04453,Delayed,6
+SH04454,Delayed,3
+SH04455,On Time,1
+SH04456,Delayed,5
+SH04457,Delayed,5
+SH04458,Delayed,3
+SH04459,Delayed,4
+SH04460,On Time,0
+SH04461,On Time,0
+SH04462,On Time,2
+SH04463,Delayed,5
+SH04464,On Time,0
+SH04465,Delayed,6
+SH04466,Delayed,6
+SH04467,On Time,1
+SH04468,On Time,1
+SH04469,Delayed,4
+SH04470,On Time,0
+SH04471,Delayed,5
+SH04472,Delayed,4
+SH04473,Delayed,3
+SH04474,On Time,1
+SH04475,Delayed,4
+SH04476,Delayed,6
+SH04477,On Time,0
+SH04478,On Time,0
+SH04479,Delayed,4
+SH04480,On Time,0
+SH04481,Delayed,6
+SH04482,Delayed,5
+SH04483,Delayed,7
+SH04484,On Time,1
+SH04485,Delayed,3
+SH04486,Delayed,7
+SH04487,On Time,0
+SH04488,On Time,2
+SH04489,Delayed,7
+SH04490,On Time,1
+SH04491,On Time,1
+SH04492,On Time,0
+SH04493,Delayed,7
+SH04494,On Time,2
+SH04495,Delayed,6
+SH04496,On Time,1
+SH04497,On Time,1
+SH04498,Delayed,6
+SH04499,On Time,2
+SH04500,Delayed,7
+SH04501,Delayed,4
+SH04502,Delayed,4
+SH04503,Delayed,3
+SH04504,Delayed,5
+SH04505,On Time,1
+SH04506,Delayed,5
+SH04507,Delayed,4
+SH04508,Delayed,4
+SH04509,On Time,2
+SH04510,On Time,0
+SH04511,Delayed,6
+SH04512,Delayed,4
+SH04513,Delayed,7
+SH04514,Delayed,6
+SH04515,On Time,0
+SH04516,Delayed,4
+SH04517,On Time,2
+SH04518,Delayed,6
+SH04519,Delayed,3
+SH04520,On Time,0
+SH04521,Delayed,3
+SH04522,Delayed,5
+SH04523,On Time,2
+SH04524,Delayed,4
+SH04525,Delayed,5
+SH04526,On Time,0
+SH04527,On Time,2
+SH04528,On Time,1
+SH04529,Delayed,7
+SH04530,Delayed,6
+SH04531,Delayed,6
+SH04532,Delayed,6
+SH04533,On Time,2
+SH04534,Delayed,4
+SH04535,On Time,0
+SH04536,Delayed,4
+SH04537,Delayed,6
+SH04538,Delayed,6
+SH04539,Delayed,7
+SH04540,Delayed,6
+SH04541,Delayed,6
+SH04542,On Time,2
+SH04543,Delayed,5
+SH04544,On Time,2
+SH04545,Delayed,3
+SH04546,Delayed,5
+SH04547,On Time,0
+SH04548,Delayed,6
+SH04549,Delayed,6
+SH04550,On Time,0
+SH04551,Delayed,4
+SH04552,On Time,0
+SH04553,Delayed,4
+SH04554,Delayed,3
+SH04555,Delayed,4
+SH04556,Delayed,6
+SH04557,On Time,1
+SH04558,Delayed,5
+SH04559,On Time,2
+SH04560,Delayed,5
+SH04561,On Time,1
+SH04562,Delayed,3
+SH04563,On Time,2
+SH04564,Delayed,3
+SH04565,On Time,0
+SH04566,On Time,2
+SH04567,Delayed,7
+SH04568,Delayed,4
+SH04569,Delayed,5
+SH04570,On Time,2
+SH04571,Delayed,6
+SH04572,On Time,1
+SH04573,On Time,2
+SH04574,On Time,0
+SH04575,Delayed,3
+SH04576,Delayed,7
+SH04577,Delayed,5
+SH04578,Delayed,4
+SH04579,Delayed,7
+SH04580,Delayed,5
+SH04581,Delayed,7
+SH04582,Delayed,4
+SH04583,Delayed,6
+SH04584,Delayed,3
+SH04585,Delayed,7
+SH04586,Delayed,3
+SH04587,Delayed,6
+SH04588,Delayed,6
+SH04589,On Time,1
+SH04590,Delayed,7
+SH04591,Delayed,5
+SH04592,Delayed,4
+SH04593,On Time,0
+SH04594,Delayed,4
+SH04595,Delayed,6
+SH04596,Delayed,3
+SH04597,On Time,1
+SH04598,On Time,0
+SH04599,Delayed,5
+SH04600,On Time,2
+SH04601,Delayed,3
+SH04602,On Time,2
+SH04603,On Time,2
+SH04604,On Time,1
+SH04605,Delayed,6
+SH04606,On Time,1
+SH04607,On Time,0
+SH04608,Delayed,4
+SH04609,On Time,2
+SH04610,Delayed,5
+SH04611,On Time,0
+SH04612,Delayed,5
+SH04613,On Time,2
+SH04614,Delayed,4
+SH04615,Delayed,4
+SH04616,On Time,0
+SH04617,On Time,0
+SH04618,Delayed,5
+SH04619,On Time,0
+SH04620,Delayed,3
+SH04621,Delayed,5
+SH04622,Delayed,3
+SH04623,Delayed,3
+SH04624,On Time,2
+SH04625,Delayed,5
+SH04626,On Time,0
+SH04627,On Time,2
+SH04628,Delayed,7
+SH04629,Delayed,6
+SH04630,Delayed,4
+SH04631,On Time,0
+SH04632,Delayed,5
+SH04633,Delayed,3
+SH04634,Delayed,5
+SH04635,On Time,0
+SH04636,Delayed,3
+SH04637,Delayed,6
+SH04638,Delayed,3
+SH04639,Delayed,3
+SH04640,Delayed,3
+SH04641,On Time,2
+SH04642,Delayed,6
+SH04643,On Time,1
+SH04644,Delayed,3
+SH04645,Delayed,3
+SH04646,On Time,1
+SH04647,Delayed,7
+SH04648,Delayed,4
+SH04649,Delayed,5
+SH04650,Delayed,3
+SH04651,On Time,1
+SH04652,Delayed,6
+SH04653,Delayed,7
+SH04654,Delayed,4
+SH04655,On Time,2
+SH04656,Delayed,6
+SH04657,Delayed,7
+SH04658,Delayed,7
+SH04659,Delayed,6
+SH04660,Delayed,3
+SH04661,On Time,1
+SH04662,Delayed,6
+SH04663,On Time,2
+SH04664,Delayed,3
+SH04665,Delayed,4
+SH04666,Delayed,7
+SH04667,Delayed,5
+SH04668,Delayed,5
+SH04669,Delayed,5
+SH04670,Delayed,6
+SH04671,Delayed,7
+SH04672,On Time,1
+SH04673,On Time,1
+SH04674,Delayed,7
+SH04675,On Time,2
+SH04676,Delayed,7
+SH04677,Delayed,7
+SH04678,On Time,1
+SH04679,On Time,0
+SH04680,On Time,0
+SH04681,Delayed,5
+SH04682,Delayed,3
+SH04683,Delayed,4
+SH04684,Delayed,7
+SH04685,Delayed,6
+SH04686,Delayed,7
+SH04687,On Time,1
+SH04688,Delayed,3
+SH04689,On Time,0
+SH04690,Delayed,3
+SH04691,Delayed,3
+SH04692,On Time,2
+SH04693,Delayed,3
+SH04694,Delayed,6
+SH04695,Delayed,7
+SH04696,Delayed,6
+SH04697,Delayed,3
+SH04698,Delayed,5
+SH04699,Delayed,4
+SH04700,Delayed,6
+SH04701,On Time,2
+SH04702,Delayed,5
+SH04703,Delayed,7
+SH04704,Delayed,5
+SH04705,Delayed,4
+SH04706,Delayed,5
+SH04707,Delayed,3
+SH04708,On Time,2
+SH04709,On Time,0
+SH04710,On Time,2
+SH04711,Delayed,5
+SH04712,Delayed,4
+SH04713,On Time,0
+SH04714,Delayed,4
+SH04715,On Time,0
+SH04716,Delayed,3
+SH04717,Delayed,7
+SH04718,On Time,1
+SH04719,On Time,1
+SH04720,Delayed,3
+SH04721,On Time,1
+SH04722,Delayed,5
+SH04723,On Time,1
+SH04724,On Time,0
+SH04725,Delayed,4
+SH04726,Delayed,5
+SH04727,Delayed,6
+SH04728,On Time,1
+SH04729,Delayed,3
+SH04730,On Time,2
+SH04731,Delayed,4
+SH04732,On Time,0
+SH04733,On Time,1
+SH04734,Delayed,3
+SH04735,Delayed,3
+SH04736,On Time,1
+SH04737,On Time,0
+SH04738,Delayed,6
+SH04739,Delayed,7
+SH04740,Delayed,5
+SH04741,Delayed,5
+SH04742,Delayed,7
+SH04743,Delayed,5
+SH04744,Delayed,5
+SH04745,On Time,0
+SH04746,Delayed,4
+SH04747,On Time,2
+SH04748,On Time,0
+SH04749,Delayed,5
+SH04750,On Time,2
+SH04751,On Time,2
+SH04752,Delayed,6
+SH04753,On Time,1
+SH04754,Delayed,7
+SH04755,On Time,0
+SH04756,On Time,1
+SH04757,On Time,2
+SH04758,Delayed,7
+SH04759,Delayed,5
+SH04760,Delayed,4
+SH04761,Delayed,5
+SH04762,Delayed,3
+SH04763,Delayed,5
+SH04764,On Time,1
+SH04765,On Time,2
+SH04766,On Time,1
+SH04767,On Time,1
+SH04768,Delayed,5
+SH04769,On Time,0
+SH04770,Delayed,7
+SH04771,Delayed,6
+SH04772,On Time,1
+SH04773,Delayed,5
+SH04774,Delayed,5
+SH04775,Delayed,7
+SH04776,Delayed,5
+SH04777,On Time,2
+SH04778,Delayed,6
+SH04779,On Time,0
+SH04780,On Time,2
+SH04781,On Time,2
+SH04782,Delayed,5
+SH04783,On Time,0
+SH04784,On Time,1
+SH04785,Delayed,6
+SH04786,On Time,0
+SH04787,Delayed,6
+SH04788,Delayed,7
+SH04789,On Time,1
+SH04790,On Time,1
+SH04791,Delayed,4
+SH04792,Delayed,4
+SH04793,Delayed,5
+SH04794,Delayed,7
+SH04795,Delayed,6
+SH04796,Delayed,6
+SH04797,On Time,1
+SH04798,Delayed,3
+SH04799,On Time,2
+SH04800,On Time,2
+SH04801,On Time,0
+SH04802,Delayed,6
+SH04803,On Time,2
+SH04804,Delayed,6
+SH04805,Delayed,3
+SH04806,Delayed,7
+SH04807,On Time,0
+SH04808,Delayed,7
+SH04809,On Time,1
+SH04810,On Time,2
+SH04811,Delayed,3
+SH04812,Delayed,7
+SH04813,On Time,1
+SH04814,On Time,1
+SH04815,Delayed,4
+SH04816,On Time,0
+SH04817,Delayed,4
+SH04818,Delayed,4
+SH04819,Delayed,5
+SH04820,Delayed,7
+SH04821,On Time,0
+SH04822,Delayed,5
+SH04823,Delayed,6
+SH04824,On Time,2
+SH04825,Delayed,7
+SH04826,Delayed,4
+SH04827,On Time,2
+SH04828,Delayed,6
+SH04829,On Time,1
+SH04830,Delayed,4
+SH04831,On Time,2
+SH04832,Delayed,7
+SH04833,Delayed,7
+SH04834,Delayed,3
+SH04835,Delayed,4
+SH04836,Delayed,3
+SH04837,On Time,2
+SH04838,On Time,0
+SH04839,Delayed,7
+SH04840,Delayed,4
+SH04841,On Time,1
+SH04842,Delayed,7
+SH04843,Delayed,3
+SH04844,On Time,0
+SH04845,On Time,0
+SH04846,Delayed,5
+SH04847,Delayed,7
+SH04848,On Time,1
+SH04849,Delayed,6
+SH04850,On Time,1
+SH04851,Delayed,7
+SH04852,Delayed,7
+SH04853,Delayed,3
+SH04854,On Time,2
+SH04855,On Time,2
+SH04856,Delayed,7
+SH04857,On Time,2
+SH04858,Delayed,5
+SH04859,Delayed,4
+SH04860,Delayed,3
+SH04861,Delayed,3
+SH04862,On Time,0
+SH04863,Delayed,6
+SH04864,On Time,1
+SH04865,On Time,2
+SH04866,Delayed,3
+SH04867,On Time,0
+SH04868,Delayed,6
+SH04869,On Time,1
+SH04870,Delayed,6
+SH04871,Delayed,7
+SH04872,Delayed,5
+SH04873,Delayed,6
+SH04874,Delayed,7
+SH04875,On Time,2
+SH04876,On Time,0
+SH04877,On Time,0
+SH04878,Delayed,5
+SH04879,On Time,2
+SH04880,On Time,2
+SH04881,Delayed,6
+SH04882,Delayed,4
+SH04883,Delayed,4
+SH04884,On Time,1
+SH04885,Delayed,7
+SH04886,On Time,1
+SH04887,On Time,0
+SH04888,Delayed,6
+SH04889,Delayed,5
+SH04890,Delayed,6
+SH04891,Delayed,5
+SH04892,On Time,2
+SH04893,Delayed,6
+SH04894,Delayed,5
+SH04895,Delayed,7
+SH04896,On Time,2
+SH04897,Delayed,3
+SH04898,On Time,0
+SH04899,On Time,1
+SH04900,Delayed,4
+SH04901,On Time,0
+SH04902,Delayed,7
+SH04903,On Time,1
+SH04904,Delayed,7
+SH04905,On Time,1
+SH04906,Delayed,4
+SH04907,Delayed,7
+SH04908,On Time,0
+SH04909,Delayed,5
+SH04910,Delayed,4
+SH04911,Delayed,3
+SH04912,Delayed,3
+SH04913,On Time,0
+SH04914,On Time,1
+SH04915,Delayed,4
+SH04916,Delayed,6
+SH04917,Delayed,6
+SH04918,Delayed,6
+SH04919,On Time,1
+SH04920,Delayed,3
+SH04921,On Time,2
+SH04922,Delayed,4
+SH04923,On Time,1
+SH04924,On Time,0
+SH04925,On Time,1
+SH04926,On Time,0
+SH04927,Delayed,5
+SH04928,On Time,1
+SH04929,On Time,1
+SH04930,Delayed,3
+SH04931,Delayed,5
+SH04932,On Time,2
+SH04933,Delayed,3
+SH04934,Delayed,3
+SH04935,On Time,0
+SH04936,Delayed,7
+SH04937,Delayed,4
+SH04938,Delayed,3
+SH04939,Delayed,7
+SH04940,Delayed,6
+SH04941,Delayed,6
+SH04942,On Time,0
+SH04943,Delayed,6
+SH04944,On Time,1
+SH04945,Delayed,4
+SH04946,Delayed,3
+SH04947,Delayed,4
+SH04948,Delayed,7
+SH04949,Delayed,6
+SH04950,On Time,2
+SH04951,Delayed,4
+SH04952,On Time,2
+SH04953,On Time,0
+SH04954,Delayed,4
+SH04955,Delayed,7
+SH04956,Delayed,4
+SH04957,Delayed,3
+SH04958,Delayed,7
+SH04959,On Time,0
+SH04960,Delayed,7
+SH04961,On Time,0
+SH04962,Delayed,7
+SH04963,On Time,1
+SH04964,Delayed,6
+SH04965,Delayed,6
+SH04966,Delayed,5
+SH04967,On Time,2
+SH04968,Delayed,3
+SH04969,Delayed,4
+SH04970,Delayed,5
+SH04971,Delayed,7
+SH04972,Delayed,5
+SH04973,On Time,2
+SH04974,Delayed,5
+SH04975,On Time,2
+SH04976,On Time,1
+SH04977,On Time,2
+SH04978,Delayed,3
+SH04979,On Time,2
+SH04980,On Time,2
+SH04981,On Time,1
+SH04982,Delayed,5
+SH04983,On Time,2
+SH04984,On Time,2
+SH04985,Delayed,5
+SH04986,Delayed,3
+SH04987,Delayed,3
+SH04988,Delayed,4
+SH04989,Delayed,3
+SH04990,Delayed,6
+SH04991,Delayed,4
+SH04992,Delayed,4
+SH04993,Delayed,7
+SH04994,Delayed,4
+SH04995,Delayed,5
+SH04996,Delayed,7
+SH04997,Delayed,7
+SH04998,Delayed,4
+SH04999,On Time,0
+SH05000,On Time,2

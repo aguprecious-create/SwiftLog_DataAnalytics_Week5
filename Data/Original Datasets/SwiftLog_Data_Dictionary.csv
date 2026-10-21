@@ -1,0 +1,12 @@
+﻿File,Description
+SwiftLog_Inventory.csv,Dataset
+SwiftLog_Products.csv,Dataset
+SwiftLog_Order_Items.csv,Dataset
+SwiftLog_Warehouses.csv,Dataset
+SwiftLog_Orders.csv,Dataset
+SwiftLog_Customers.csv,Dataset
+SwiftLog_Delivery_Performance.csv,Dataset
+SwiftLog_Employees.csv,Dataset
+SwiftLog_Shipments.csv,Dataset
+SwiftLog_Suppliers.csv,Dataset
+SwiftLog_Returns.csv,Dataset
